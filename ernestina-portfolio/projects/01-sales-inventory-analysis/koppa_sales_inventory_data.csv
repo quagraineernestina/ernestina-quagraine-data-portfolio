@@ -1,0 +1,1201 @@
+Date,Branch,Region,Product_Category,Product_Name,Size,Colour,Quantity_Sold,Unit_Price_GHS,Total_Sales_GHS,Quantity_In_Stock,Stock_Movement,Payment_Method,Customer_Type
+2024-01-01,Takoradi,Western,Men's Shoes,Casual Loafer,43,Grey,3,258.19,774.57,10,Sale,Cash,Wholesale
+2024-01-01,Cape Coast,Central,Women's Shoes,Ankle Boot,45,Tan,0,340.43,0.0,36,Adjustment,Cash,Retail
+2024-01-01,Tarkwa,Western,Women's Shoes,Heeled Pump,37,Tan,7,358.28,2507.96,28,Sale,Mobile Money,Retail
+2024-01-01,Kumasi,Ashanti,Men's Shoes,Classic Oxford,45,Black,4,348.51,1394.04,22,Sale,Cash,Retail
+2024-01-02,Tema,Greater Accra,Men's Shoes,Classic Oxford,39,White,4,186.87,747.48,22,Sale,Card,Retail
+2024-01-02,Accra Central,Greater Accra,Sports Shoes,Running Shoe,41,Grey,4,392.59,1570.36,75,Sale,Mobile Money,Retail
+2024-01-02,Tema,Greater Accra,Children's Shoes,Canvas Shoe,44,Grey,4,114.52,458.08,81,Sale,Card,Retail
+2024-01-03,Kumasi,Ashanti,Children's Shoes,Kids Sneaker,40,Tan,0,84.31,0.0,64,Restock,Card,Retail
+2024-01-03,Cape Coast,Central,Children's Shoes,Canvas Shoe,38,Navy,5,112.82,564.1,66,Sale,Cash,Retail
+2024-01-03,Accra Central,Greater Accra,Sports Shoes,Training Shoe,44,Brown,1,220.79,220.79,35,Sale,Cash,Retail
+2024-01-04,Cape Coast,Central,Sandals,Men's Sandal,36,Red,7,102.81,719.67,51,Sale,Cash,Wholesale
+2024-01-04,Tema,Greater Accra,Men's Shoes,Sports Sneaker,45,Black,0,377.72,0.0,8,Restock,Mobile Money,Retail
+2024-01-05,Tema,Greater Accra,Women's Shoes,Ankle Boot,37,Tan,2,227.68,455.36,16,Sale,Cash,Retail
+2024-01-05,Accra Central,Greater Accra,Men's Shoes,Sports Sneaker,43,White,1,226.84,226.84,46,Sale,Card,Retail
+2024-01-05,Cape Coast,Central,Sports Shoes,Football Boot,45,Grey,0,214.79,0.0,46,Return,Card,Retail
+2024-01-05,Cape Coast,Central,Men's Shoes,Classic Oxford,39,Tan,0,252.75,0.0,37,Return,Cash,Retail
+2024-01-05,Accra Central,Greater Accra,Women's Shoes,Ballet Flat,40,Black,2,280.08,560.16,54,Sale,Card,Retail
+2024-01-06,Accra Central,Greater Accra,Women's Shoes,Flat Sandal,44,Red,0,269.65,0.0,84,Restock,Credit,Retail
+2024-01-07,Tarkwa,Western,Sandals,Ladies Slipper,41,White,2,101.48,202.96,43,Sale,Credit,Retail
+2024-01-07,Tarkwa,Western,Sandals,Children's Sandal,44,White,1,61.4,61.4,13,Sale,Mobile Money,Retail
+2024-01-08,Kumasi,Ashanti,Women's Shoes,Ankle Boot,39,White,5,258.49,1292.45,20,Sale,Cash,Wholesale
+2024-01-08,Takoradi,Western,Sports Shoes,Running Shoe,43,Tan,2,301.69,603.38,56,Sale,Cash,Retail
+2024-01-08,Kumasi,Ashanti,Children's Shoes,Canvas Shoe,39,Black,5,106.25,531.25,5,Sale,Card,Retail
+2024-01-09,Tarkwa,Western,Women's Shoes,Flat Sandal,45,Tan,6,249.55,1497.3,7,Sale,Cash,Retail
+2024-01-09,Accra Central,Greater Accra,Women's Shoes,Ankle Boot,36,Red,4,249.02,996.08,8,Sale,Card,Retail
+2024-01-10,Tarkwa,Western,Sandals,Men's Sandal,36,Grey,1,119.95,119.95,56,Sale,Mobile Money,Retail
+2024-01-10,Kumasi,Ashanti,Sandals,Children's Sandal,37,Brown,1,156.19,156.19,64,Sale,Cash,Wholesale
+2024-01-11,Cape Coast,Central,Children's Shoes,Kids Sneaker,42,Navy,4,124.09,496.36,43,Sale,Cash,Retail
+2024-01-11,Cape Coast,Central,Sandals,Children's Sandal,43,Red,1,131.74,131.74,63,Sale,Credit,Wholesale
+2024-01-11,Accra Central,Greater Accra,Men's Shoes,Casual Loafer,42,Brown,0,432.02,0.0,33,Restock,Credit,Retail
+2024-01-12,Accra Central,Greater Accra,Children's Shoes,Kids Sneaker,44,Brown,6,211.39,1268.34,21,Sale,Card,Retail
+2024-01-12,Accra Central,Greater Accra,Men's Shoes,Classic Oxford,37,White,7,436.06,3052.42,67,Sale,Card,Retail
+2024-01-12,Tarkwa,Western,Men's Shoes,Casual Loafer,36,White,3,398.68,1196.04,56,Sale,Credit,Retail
+2024-01-13,Accra Central,Greater Accra,Men's Shoes,Sports Sneaker,38,White,5,380.56,1902.8,62,Sale,Credit,Retail
+2024-01-14,Accra Central,Greater Accra,Men's Shoes,Classic Oxford,44,Grey,0,333.09,0.0,79,Return,Cash,Wholesale
+2024-01-15,Cape Coast,Central,Sandals,Children's Sandal,41,Navy,7,117.54,822.78,13,Sale,Mobile Money,Retail
+2024-01-15,Tarkwa,Western,Women's Shoes,Flat Sandal,40,Tan,5,331.78,1658.9,14,Sale,Credit,Retail
+2024-01-15,Kumasi,Ashanti,Sandals,Ladies Slipper,45,White,4,76.71,306.84,54,Sale,Card,Retail
+2024-01-15,Accra Central,Greater Accra,Children's Shoes,Canvas Shoe,42,Brown,2,120.58,241.16,60,Sale,Mobile Money,Retail
+2024-01-15,Cape Coast,Central,Sports Shoes,Running Shoe,43,Tan,6,366.59,2199.54,69,Sale,Card,Retail
+2024-01-16,Kumasi,Ashanti,Sandals,Men's Sandal,39,White,5,168.45,842.25,24,Sale,Mobile Money,Retail
+2024-01-16,Cape Coast,Central,Sports Shoes,Football Boot,36,Red,5,326.83,1634.15,53,Sale,Credit,Retail
+2024-01-16,Cape Coast,Central,Women's Shoes,Heeled Pump,38,Navy,6,316.58,1899.48,31,Sale,Cash,Wholesale
+2024-01-17,Takoradi,Western,Men's Shoes,Classic Oxford,45,Navy,5,415.61,2078.05,59,Sale,Card,Wholesale
+2024-01-17,Takoradi,Western,Sandals,Children's Sandal,42,Grey,2,84.04,168.08,31,Sale,Credit,Wholesale
+2024-01-17,Takoradi,Western,Sports Shoes,Running Shoe,42,Navy,4,303.55,1214.2,6,Sale,Credit,Retail
+2024-01-17,Kumasi,Ashanti,Children's Shoes,Kids Sneaker,39,Red,3,81.66,244.98,13,Sale,Cash,Retail
+2024-01-18,Tarkwa,Western,Sandals,Ladies Slipper,40,Navy,4,104.2,416.8,12,Sale,Card,Retail
+2024-01-18,Tarkwa,Western,Sports Shoes,Running Shoe,36,Navy,0,254.0,0.0,7,Restock,Credit,Wholesale
+2024-01-19,Takoradi,Western,Children's Shoes,Canvas Shoe,43,White,2,129.68,259.36,52,Sale,Mobile Money,Retail
+2024-01-19,Tema,Greater Accra,Sports Shoes,Running Shoe,37,Brown,0,470.86,0.0,76,Adjustment,Mobile Money,Retail
+2024-01-20,Tema,Greater Accra,Children's Shoes,Kids Sneaker,37,Brown,2,138.27,276.54,38,Sale,Mobile Money,Retail
+2024-01-20,Tarkwa,Western,Men's Shoes,Leather Boot,42,Tan,7,287.52,2012.64,56,Sale,Credit,Retail
+2024-01-21,Takoradi,Western,Sandals,Men's Sandal,38,Tan,7,94.0,658.0,78,Sale,Mobile Money,Retail
+2024-01-21,Cape Coast,Central,Women's Shoes,Ballet Flat,40,Brown,0,371.98,0.0,54,Adjustment,Card,Retail
+2024-01-22,Kumasi,Ashanti,Children's Shoes,Kids Sneaker,37,Black,2,183.62,367.24,28,Sale,Mobile Money,Retail
+2024-01-22,Kumasi,Ashanti,Children's Shoes,School Shoe,41,Red,7,108.5,759.5,80,Sale,Cash,Wholesale
+2024-01-23,Takoradi,Western,Women's Shoes,Heeled Pump,37,Brown,3,294.3,882.9,72,Sale,Mobile Money,Retail
+2024-01-23,Takoradi,Western,Men's Shoes,Classic Oxford,37,Black,4,345.69,1382.76,24,Sale,Credit,Retail
+2024-01-23,Cape Coast,Central,Children's Shoes,Kids Sneaker,38,Black,0,150.99,0.0,57,Restock,Card,Retail
+2024-01-23,Tarkwa,Western,Men's Shoes,Leather Boot,40,Red,6,419.82,2518.92,26,Sale,Credit,Retail
+2024-01-25,Cape Coast,Central,Sports Shoes,Training Shoe,42,Black,6,482.36,2894.16,52,Sale,Card,Wholesale
+2024-01-25,Tema,Greater Accra,Sandals,Children's Sandal,39,Black,1,168.72,168.72,62,Sale,Cash,Retail
+2024-01-25,Accra Central,Greater Accra,Sandals,Children's Sandal,38,Red,3,77.18,231.54,11,Sale,Cash,Retail
+2024-01-25,Tarkwa,Western,Sports Shoes,Running Shoe,39,Brown,1,395.24,395.24,18,Sale,Card,Retail
+2024-01-26,Tema,Greater Accra,Sandals,Ladies Slipper,44,White,0,135.13,0.0,36,Restock,Cash,Retail
+2024-01-26,Accra Central,Greater Accra,Sandals,Children's Sandal,39,Navy,5,127.15,635.75,27,Sale,Cash,Retail
+2024-01-27,Tarkwa,Western,Men's Shoes,Casual Loafer,37,White,3,297.07,891.21,29,Sale,Card,Wholesale
+2024-01-27,Accra Central,Greater Accra,Sandals,Men's Sandal,36,Brown,5,96.64,483.2,17,Sale,Credit,Retail
+2024-01-28,Takoradi,Western,Women's Shoes,Flat Sandal,36,Tan,7,155.72,1090.04,56,Sale,Mobile Money,Retail
+2024-01-28,Kumasi,Ashanti,Children's Shoes,Canvas Shoe,42,Navy,5,169.08,845.4,12,Sale,Credit,Wholesale
+2024-01-28,Cape Coast,Central,Sandals,Men's Sandal,41,Grey,2,100.94,201.88,59,Sale,Cash,Retail
+2024-01-28,Tarkwa,Western,Women's Shoes,Ankle Boot,42,White,3,307.98,923.94,72,Sale,Mobile Money,Retail
+2024-01-29,Tarkwa,Western,Sandals,Men's Sandal,40,Tan,7,115.64,809.48,82,Sale,Mobile Money,Retail
+2024-01-29,Accra Central,Greater Accra,Sports Shoes,Training Shoe,41,White,0,313.21,0.0,27,Adjustment,Cash,Wholesale
+2024-01-29,Tarkwa,Western,Sports Shoes,Football Boot,45,Black,3,460.21,1380.63,13,Sale,Mobile Money,Wholesale
+2024-01-29,Cape Coast,Central,Sandals,Children's Sandal,44,Tan,2,116.63,233.26,18,Sale,Card,Retail
+2024-01-29,Cape Coast,Central,Sandals,Men's Sandal,39,Black,3,119.41,358.23,76,Sale,Mobile Money,Retail
+2024-02-01,Kumasi,Ashanti,Sandals,Ladies Slipper,39,Red,0,104.84,0.0,48,Adjustment,Cash,Retail
+2024-02-02,Accra Central,Greater Accra,Women's Shoes,Heeled Pump,44,Navy,0,225.19,0.0,74,Return,Cash,Retail
+2024-02-02,Tarkwa,Western,Sports Shoes,Training Shoe,43,White,2,306.76,613.52,23,Sale,Card,Retail
+2024-02-03,Takoradi,Western,Sports Shoes,Training Shoe,42,Brown,5,215.02,1075.1,80,Sale,Mobile Money,Retail
+2024-02-03,Tema,Greater Accra,Men's Shoes,Casual Loafer,37,Black,3,438.65,1315.95,45,Sale,Cash,Retail
+2024-02-03,Takoradi,Western,Men's Shoes,Classic Oxford,44,Brown,3,287.85,863.55,50,Sale,Card,Retail
+2024-02-04,Tarkwa,Western,Sports Shoes,Football Boot,36,Navy,3,249.82,749.46,34,Sale,Card,Retail
+2024-02-04,Tema,Greater Accra,Men's Shoes,Casual Loafer,45,Navy,0,294.62,0.0,11,Restock,Credit,Retail
+2024-02-05,Cape Coast,Central,Men's Shoes,Casual Loafer,39,White,0,208.48,0.0,27,Restock,Mobile Money,Retail
+2024-02-05,Accra Central,Greater Accra,Sports Shoes,Training Shoe,39,Navy,0,220.1,0.0,16,Restock,Credit,Wholesale
+2024-02-06,Accra Central,Greater Accra,Children's Shoes,Kids Sneaker,40,White,6,86.58,519.48,17,Sale,Credit,Retail
+2024-02-06,Tarkwa,Western,Sandals,Men's Sandal,44,Tan,1,67.46,67.46,9,Sale,Cash,Retail
+2024-02-06,Accra Central,Greater Accra,Sports Shoes,Running Shoe,36,Tan,1,437.83,437.83,7,Sale,Cash,Retail
+2024-02-07,Accra Central,Greater Accra,Men's Shoes,Casual Loafer,36,Grey,7,396.62,2776.34,78,Sale,Cash,Wholesale
+2024-02-07,Kumasi,Ashanti,Sports Shoes,Football Boot,41,Navy,6,289.19,1735.14,24,Sale,Credit,Retail
+2024-02-08,Kumasi,Ashanti,Sandals,Ladies Slipper,40,Black,0,95.15,0.0,63,Restock,Mobile Money,Retail
+2024-02-08,Tarkwa,Western,Children's Shoes,Canvas Shoe,36,Navy,0,122.59,0.0,49,Return,Mobile Money,Retail
+2024-02-08,Tema,Greater Accra,Men's Shoes,Leather Boot,42,Red,5,347.8,1739.0,73,Sale,Cash,Retail
+2024-02-08,Cape Coast,Central,Men's Shoes,Sports Sneaker,40,White,1,188.92,188.92,21,Sale,Credit,Retail
+2024-02-08,Accra Central,Greater Accra,Men's Shoes,Classic Oxford,39,Grey,4,246.03,984.12,44,Sale,Cash,Retail
+2024-02-08,Cape Coast,Central,Children's Shoes,Canvas Shoe,38,Tan,0,123.0,0.0,31,Adjustment,Credit,Wholesale
+2024-02-08,Kumasi,Ashanti,Women's Shoes,Heeled Pump,42,Grey,7,273.13,1911.91,7,Sale,Cash,Retail
+2024-02-08,Kumasi,Ashanti,Men's Shoes,Classic Oxford,41,Brown,0,329.77,0.0,68,Restock,Cash,Retail
+2024-02-09,Kumasi,Ashanti,Men's Shoes,Sports Sneaker,36,Brown,7,316.61,2216.27,35,Sale,Mobile Money,Retail
+2024-02-09,Kumasi,Ashanti,Sandals,Ladies Slipper,39,Black,3,60.35,181.05,14,Sale,Mobile Money,Retail
+2024-02-10,Cape Coast,Central,Men's Shoes,Classic Oxford,42,Navy,4,262.69,1050.76,40,Sale,Card,Wholesale
+2024-02-10,Kumasi,Ashanti,Women's Shoes,Ballet Flat,41,Brown,3,246.0,738.0,7,Sale,Mobile Money,Retail
+2024-02-10,Takoradi,Western,Men's Shoes,Casual Loafer,42,White,5,327.6,1638.0,28,Sale,Credit,Retail
+2024-02-10,Cape Coast,Central,Children's Shoes,Kids Sneaker,38,Red,5,197.7,988.5,26,Sale,Cash,Wholesale
+2024-02-11,Tema,Greater Accra,Children's Shoes,Canvas Shoe,38,Navy,5,145.63,728.15,65,Sale,Cash,Retail
+2024-02-11,Tema,Greater Accra,Children's Shoes,School Shoe,44,White,3,88.16,264.48,5,Sale,Mobile Money,Wholesale
+2024-02-11,Kumasi,Ashanti,Women's Shoes,Heeled Pump,40,White,7,306.7,2146.9,35,Sale,Mobile Money,Wholesale
+2024-02-11,Cape Coast,Central,Men's Shoes,Leather Boot,40,Grey,3,362.42,1087.26,49,Sale,Credit,Wholesale
+2024-02-12,Tema,Greater Accra,Sandals,Men's Sandal,41,Navy,5,113.16,565.8,47,Sale,Credit,Retail
+2024-02-12,Accra Central,Greater Accra,Children's Shoes,Kids Sneaker,37,Grey,0,94.13,0.0,38,Adjustment,Card,Retail
+2024-02-13,Takoradi,Western,Children's Shoes,School Shoe,43,Brown,2,160.44,320.88,73,Sale,Card,Retail
+2024-02-15,Tarkwa,Western,Children's Shoes,School Shoe,42,Grey,5,161.4,807.0,58,Sale,Credit,Retail
+2024-02-15,Kumasi,Ashanti,Women's Shoes,Flat Sandal,38,Navy,2,177.24,354.48,32,Sale,Card,Retail
+2024-02-16,Accra Central,Greater Accra,Women's Shoes,Flat Sandal,45,Black,6,308.79,1852.74,45,Sale,Card,Retail
+2024-02-16,Kumasi,Ashanti,Women's Shoes,Heeled Pump,38,White,6,341.64,2049.84,59,Sale,Card,Retail
+2024-02-16,Accra Central,Greater Accra,Men's Shoes,Leather Boot,42,White,0,299.21,0.0,39,Restock,Cash,Wholesale
+2024-02-16,Takoradi,Western,Sports Shoes,Running Shoe,45,Navy,0,262.43,0.0,34,Restock,Mobile Money,Wholesale
+2024-02-16,Cape Coast,Central,Sandals,Ladies Slipper,45,Black,2,93.79,187.58,17,Sale,Credit,Retail
+2024-02-16,Cape Coast,Central,Women's Shoes,Ankle Boot,41,Grey,7,164.31,1150.17,32,Sale,Cash,Retail
+2024-02-16,Takoradi,Western,Women's Shoes,Ballet Flat,39,White,6,227.36,1364.16,66,Sale,Credit,Wholesale
+2024-02-17,Tarkwa,Western,Women's Shoes,Ballet Flat,42,Black,5,213.7,1068.5,14,Sale,Card,Retail
+2024-02-17,Tema,Greater Accra,Sandals,Ladies Slipper,43,Tan,5,131.17,655.85,58,Sale,Cash,Retail
+2024-02-18,Takoradi,Western,Men's Shoes,Classic Oxford,41,Tan,0,210.21,0.0,9,Restock,Credit,Retail
+2024-02-18,Cape Coast,Central,Sports Shoes,Football Boot,39,Red,7,392.21,2745.47,83,Sale,Cash,Retail
+2024-02-20,Accra Central,Greater Accra,Children's Shoes,Kids Sneaker,42,Red,4,124.76,499.04,29,Sale,Mobile Money,Retail
+2024-02-20,Takoradi,Western,Sandals,Ladies Slipper,40,White,6,121.44,728.64,36,Sale,Cash,Retail
+2024-02-20,Takoradi,Western,Men's Shoes,Leather Boot,41,Brown,5,187.59,937.95,8,Sale,Cash,Retail
+2024-02-20,Accra Central,Greater Accra,Children's Shoes,Kids Sneaker,42,Red,0,143.56,0.0,66,Return,Cash,Wholesale
+2024-02-20,Cape Coast,Central,Children's Shoes,Kids Sneaker,44,Brown,0,218.51,0.0,15,Adjustment,Credit,Retail
+2024-02-22,Cape Coast,Central,Sandals,Children's Sandal,40,Red,4,67.55,270.2,79,Sale,Cash,Wholesale
+2024-02-22,Tema,Greater Accra,Men's Shoes,Casual Loafer,45,White,7,366.1,2562.7,24,Sale,Credit,Wholesale
+2024-02-22,Kumasi,Ashanti,Children's Shoes,Canvas Shoe,45,Brown,3,116.31,348.93,50,Sale,Cash,Wholesale
+2024-02-22,Accra Central,Greater Accra,Sandals,Children's Sandal,36,Tan,6,167.79,1006.74,56,Sale,Cash,Wholesale
+2024-02-22,Tarkwa,Western,Men's Shoes,Sports Sneaker,38,White,1,301.24,301.24,36,Sale,Cash,Wholesale
+2024-02-23,Accra Central,Greater Accra,Children's Shoes,Kids Sneaker,38,Black,5,86.29,431.45,75,Sale,Credit,Retail
+2024-02-23,Tarkwa,Western,Women's Shoes,Heeled Pump,41,Tan,2,358.02,716.04,22,Sale,Credit,Retail
+2024-02-23,Kumasi,Ashanti,Sports Shoes,Football Boot,40,Black,5,431.75,2158.75,20,Sale,Mobile Money,Retail
+2024-02-23,Tarkwa,Western,Sandals,Men's Sandal,36,Navy,7,70.37,492.59,40,Sale,Credit,Retail
+2024-02-23,Tema,Greater Accra,Children's Shoes,Kids Sneaker,42,Red,0,92.4,0.0,84,Restock,Mobile Money,Wholesale
+2024-02-24,Tema,Greater Accra,Women's Shoes,Flat Sandal,43,Tan,1,319.97,319.97,34,Sale,Mobile Money,Retail
+2024-02-24,Takoradi,Western,Men's Shoes,Sports Sneaker,45,Black,3,251.23,753.69,32,Sale,Cash,Retail
+2024-02-24,Cape Coast,Central,Men's Shoes,Leather Boot,37,Black,5,212.61,1063.05,39,Sale,Mobile Money,Retail
+2024-02-25,Tarkwa,Western,Men's Shoes,Classic Oxford,38,White,2,191.09,382.18,48,Sale,Mobile Money,Wholesale
+2024-02-25,Takoradi,Western,Men's Shoes,Classic Oxford,40,Grey,7,252.52,1767.64,77,Sale,Card,Retail
+2024-02-27,Cape Coast,Central,Sports Shoes,Training Shoe,44,Navy,5,333.75,1668.75,13,Sale,Mobile Money,Retail
+2024-02-27,Takoradi,Western,Children's Shoes,School Shoe,39,Brown,4,193.84,775.36,80,Sale,Credit,Retail
+2024-02-27,Cape Coast,Central,Women's Shoes,Heeled Pump,43,Red,5,279.09,1395.45,58,Sale,Mobile Money,Retail
+2024-02-27,Takoradi,Western,Women's Shoes,Ankle Boot,37,Navy,4,324.22,1296.88,52,Sale,Cash,Retail
+2024-02-28,Kumasi,Ashanti,Children's Shoes,Kids Sneaker,41,Grey,5,109.49,547.45,22,Sale,Card,Retail
+2024-02-28,Tarkwa,Western,Sports Shoes,Training Shoe,36,Grey,0,380.41,0.0,19,Restock,Credit,Retail
+2024-03-01,Accra Central,Greater Accra,Women's Shoes,Ankle Boot,43,Red,5,160.28,801.4,24,Sale,Credit,Wholesale
+2024-03-01,Kumasi,Ashanti,Men's Shoes,Leather Boot,39,Black,5,300.0,1500.0,21,Sale,Cash,Retail
+2024-03-01,Tarkwa,Western,Sandals,Ladies Slipper,43,Tan,7,134.07,938.49,20,Sale,Credit,Wholesale
+2024-03-02,Kumasi,Ashanti,Women's Shoes,Ballet Flat,36,Navy,1,174.87,174.87,78,Sale,Cash,Retail
+2024-03-02,Kumasi,Ashanti,Sports Shoes,Training Shoe,42,Navy,4,498.96,1995.84,39,Sale,Mobile Money,Retail
+2024-03-02,Accra Central,Greater Accra,Women's Shoes,Flat Sandal,43,Black,4,344.75,1379.0,64,Sale,Mobile Money,Retail
+2024-03-03,Kumasi,Ashanti,Men's Shoes,Classic Oxford,42,Tan,3,207.51,622.53,67,Sale,Credit,Retail
+2024-03-03,Kumasi,Ashanti,Men's Shoes,Sports Sneaker,38,Navy,0,274.57,0.0,64,Adjustment,Card,Wholesale
+2024-03-03,Tema,Greater Accra,Children's Shoes,School Shoe,36,Red,5,175.23,876.15,76,Sale,Card,Retail
+2024-03-03,Tarkwa,Western,Women's Shoes,Ballet Flat,39,Navy,0,333.82,0.0,44,Return,Mobile Money,Retail
+2024-03-05,Tarkwa,Western,Women's Shoes,Ankle Boot,39,White,3,306.62,919.86,69,Sale,Card,Retail
+2024-03-05,Accra Central,Greater Accra,Sports Shoes,Running Shoe,45,Brown,5,388.79,1943.95,49,Sale,Cash,Retail
+2024-03-07,Accra Central,Greater Accra,Men's Shoes,Casual Loafer,45,White,7,324.56,2271.92,77,Sale,Cash,Retail
+2024-03-09,Takoradi,Western,Sandals,Children's Sandal,39,Brown,1,78.31,78.31,49,Sale,Credit,Retail
+2024-03-09,Tema,Greater Accra,Women's Shoes,Ankle Boot,40,Red,7,184.82,1293.74,54,Sale,Card,Retail
+2024-03-09,Cape Coast,Central,Women's Shoes,Flat Sandal,42,White,3,334.42,1003.26,32,Sale,Card,Wholesale
+2024-03-09,Accra Central,Greater Accra,Women's Shoes,Ankle Boot,40,Red,0,264.29,0.0,34,Restock,Mobile Money,Retail
+2024-03-09,Kumasi,Ashanti,Sports Shoes,Training Shoe,39,White,0,218.98,0.0,42,Return,Card,Wholesale
+2024-03-10,Accra Central,Greater Accra,Children's Shoes,Canvas Shoe,36,Red,4,196.61,786.44,11,Sale,Credit,Wholesale
+2024-03-12,Takoradi,Western,Sandals,Ladies Slipper,42,Brown,0,94.44,0.0,31,Adjustment,Cash,Retail
+2024-03-12,Tarkwa,Western,Children's Shoes,School Shoe,38,Brown,0,168.89,0.0,74,Restock,Mobile Money,Wholesale
+2024-03-13,Tema,Greater Accra,Men's Shoes,Sports Sneaker,37,Navy,3,439.26,1317.78,12,Sale,Cash,Retail
+2024-03-13,Takoradi,Western,Sandals,Children's Sandal,38,Red,6,116.36,698.16,10,Sale,Credit,Retail
+2024-03-14,Accra Central,Greater Accra,Sandals,Ladies Slipper,44,Red,6,64.27,385.62,66,Sale,Card,Wholesale
+2024-03-15,Cape Coast,Central,Sandals,Ladies Slipper,39,Brown,7,96.84,677.88,75,Sale,Card,Wholesale
+2024-03-15,Takoradi,Western,Sandals,Men's Sandal,43,Red,3,104.39,313.17,49,Sale,Mobile Money,Retail
+2024-03-15,Takoradi,Western,Men's Shoes,Sports Sneaker,38,Brown,0,252.59,0.0,42,Restock,Credit,Retail
+2024-03-15,Takoradi,Western,Sandals,Children's Sandal,43,Grey,3,138.48,415.44,19,Sale,Card,Retail
+2024-03-15,Kumasi,Ashanti,Sports Shoes,Running Shoe,45,Brown,7,222.35,1556.45,78,Sale,Credit,Retail
+2024-03-16,Accra Central,Greater Accra,Children's Shoes,School Shoe,36,Brown,2,105.31,210.62,84,Sale,Card,Retail
+2024-03-16,Cape Coast,Central,Children's Shoes,Canvas Shoe,45,Grey,0,168.17,0.0,34,Restock,Mobile Money,Retail
+2024-03-18,Cape Coast,Central,Men's Shoes,Classic Oxford,43,Navy,0,281.58,0.0,23,Return,Card,Wholesale
+2024-03-18,Accra Central,Greater Accra,Children's Shoes,Kids Sneaker,42,Brown,4,114.11,456.44,6,Sale,Card,Wholesale
+2024-03-18,Accra Central,Greater Accra,Sandals,Ladies Slipper,43,Tan,1,67.31,67.31,19,Sale,Credit,Retail
+2024-03-18,Tarkwa,Western,Men's Shoes,Sports Sneaker,36,Tan,4,217.94,871.76,31,Sale,Card,Wholesale
+2024-03-18,Accra Central,Greater Accra,Sports Shoes,Training Shoe,42,Red,1,315.25,315.25,51,Sale,Cash,Wholesale
+2024-03-20,Tema,Greater Accra,Sports Shoes,Football Boot,41,White,0,261.05,0.0,8,Return,Credit,Wholesale
+2024-03-21,Cape Coast,Central,Women's Shoes,Ballet Flat,37,Brown,6,280.9,1685.4,30,Sale,Mobile Money,Retail
+2024-03-21,Takoradi,Western,Men's Shoes,Classic Oxford,45,Black,5,243.96,1219.8,72,Sale,Card,Wholesale
+2024-03-21,Kumasi,Ashanti,Women's Shoes,Ballet Flat,43,Tan,0,232.01,0.0,25,Adjustment,Credit,Retail
+2024-03-21,Tarkwa,Western,Sandals,Ladies Slipper,38,White,7,162.91,1140.37,45,Sale,Credit,Wholesale
+2024-03-22,Tarkwa,Western,Sports Shoes,Football Boot,37,Navy,0,413.06,0.0,23,Restock,Credit,Retail
+2024-03-23,Kumasi,Ashanti,Men's Shoes,Classic Oxford,38,Tan,5,302.14,1510.7,57,Sale,Credit,Wholesale
+2024-03-24,Cape Coast,Central,Men's Shoes,Casual Loafer,36,Tan,0,445.94,0.0,69,Restock,Card,Wholesale
+2024-03-25,Tarkwa,Western,Children's Shoes,Kids Sneaker,40,Black,5,144.21,721.05,55,Sale,Credit,Retail
+2024-03-25,Takoradi,Western,Sports Shoes,Running Shoe,38,Black,1,327.44,327.44,6,Sale,Mobile Money,Retail
+2024-03-26,Tema,Greater Accra,Sports Shoes,Training Shoe,39,Grey,0,422.87,0.0,51,Restock,Cash,Wholesale
+2024-03-26,Takoradi,Western,Sandals,Ladies Slipper,43,White,2,127.13,254.26,15,Sale,Credit,Wholesale
+2024-03-26,Tema,Greater Accra,Men's Shoes,Casual Loafer,39,Navy,1,240.37,240.37,78,Sale,Credit,Retail
+2024-03-26,Tarkwa,Western,Children's Shoes,School Shoe,42,Black,7,138.49,969.43,25,Sale,Mobile Money,Retail
+2024-03-27,Cape Coast,Central,Sandals,Children's Sandal,44,Black,2,85.77,171.54,64,Sale,Card,Wholesale
+2024-03-28,Takoradi,Western,Children's Shoes,Canvas Shoe,45,Red,5,132.3,661.5,82,Sale,Mobile Money,Wholesale
+2024-03-28,Cape Coast,Central,Sandals,Men's Sandal,40,Red,0,110.37,0.0,10,Restock,Cash,Wholesale
+2024-03-29,Tarkwa,Western,Children's Shoes,School Shoe,42,Black,5,120.97,604.85,16,Sale,Credit,Retail
+2024-03-29,Tema,Greater Accra,Sports Shoes,Running Shoe,42,White,4,330.08,1320.32,76,Sale,Mobile Money,Wholesale
+2024-03-29,Accra Central,Greater Accra,Sports Shoes,Running Shoe,43,Red,0,312.09,0.0,41,Return,Card,Retail
+2024-03-30,Kumasi,Ashanti,Children's Shoes,Kids Sneaker,40,Tan,0,128.73,0.0,43,Adjustment,Cash,Wholesale
+2024-03-30,Tarkwa,Western,Sandals,Men's Sandal,43,Black,2,109.78,219.56,51,Sale,Mobile Money,Retail
+2024-03-30,Takoradi,Western,Men's Shoes,Sports Sneaker,39,Grey,0,298.86,0.0,54,Return,Card,Retail
+2024-03-31,Cape Coast,Central,Children's Shoes,Kids Sneaker,41,Grey,6,205.64,1233.84,22,Sale,Card,Retail
+2024-04-01,Tema,Greater Accra,Women's Shoes,Ballet Flat,37,Tan,5,360.27,1801.35,30,Sale,Cash,Retail
+2024-04-01,Cape Coast,Central,Men's Shoes,Leather Boot,45,Red,7,192.14,1344.98,43,Sale,Credit,Wholesale
+2024-04-02,Takoradi,Western,Women's Shoes,Ballet Flat,42,Grey,1,293.05,293.05,10,Sale,Credit,Wholesale
+2024-04-03,Takoradi,Western,Women's Shoes,Ankle Boot,40,Grey,7,368.1,2576.7,68,Sale,Mobile Money,Wholesale
+2024-04-04,Cape Coast,Central,Children's Shoes,School Shoe,36,Black,7,117.51,822.57,67,Sale,Cash,Wholesale
+2024-04-04,Cape Coast,Central,Children's Shoes,School Shoe,37,White,1,168.0,168.0,18,Sale,Card,Retail
+2024-04-04,Takoradi,Western,Women's Shoes,Heeled Pump,40,Brown,2,164.53,329.06,60,Sale,Cash,Wholesale
+2024-04-04,Accra Central,Greater Accra,Children's Shoes,School Shoe,41,Tan,7,218.19,1527.33,6,Sale,Card,Retail
+2024-04-05,Cape Coast,Central,Sports Shoes,Running Shoe,42,Brown,5,475.13,2375.65,80,Sale,Cash,Wholesale
+2024-04-05,Tema,Greater Accra,Men's Shoes,Leather Boot,42,Tan,6,402.03,2412.18,28,Sale,Credit,Retail
+2024-04-05,Accra Central,Greater Accra,Men's Shoes,Classic Oxford,45,Tan,7,422.39,2956.73,26,Sale,Cash,Wholesale
+2024-04-05,Tema,Greater Accra,Sandals,Children's Sandal,45,Black,7,162.07,1134.49,37,Sale,Cash,Retail
+2024-04-06,Tarkwa,Western,Sports Shoes,Training Shoe,36,Grey,2,297.33,594.66,39,Sale,Card,Retail
+2024-04-07,Tarkwa,Western,Children's Shoes,School Shoe,40,Grey,6,212.13,1272.78,64,Sale,Mobile Money,Retail
+2024-04-07,Tema,Greater Accra,Sports Shoes,Running Shoe,39,Black,7,411.61,2881.27,27,Sale,Cash,Wholesale
+2024-04-07,Kumasi,Ashanti,Men's Shoes,Casual Loafer,43,Black,2,183.88,367.76,25,Sale,Credit,Retail
+2024-04-08,Kumasi,Ashanti,Sandals,Children's Sandal,41,Grey,3,174.29,522.87,12,Sale,Mobile Money,Retail
+2024-04-08,Tarkwa,Western,Children's Shoes,Kids Sneaker,43,Grey,0,184.43,0.0,35,Restock,Card,Retail
+2024-04-08,Cape Coast,Central,Sandals,Children's Sandal,40,Brown,4,84.71,338.84,31,Sale,Mobile Money,Retail
+2024-04-08,Kumasi,Ashanti,Sandals,Children's Sandal,45,Tan,3,128.34,385.02,22,Sale,Card,Retail
+2024-04-08,Accra Central,Greater Accra,Sandals,Men's Sandal,44,Tan,6,122.91,737.46,25,Sale,Cash,Retail
+2024-04-08,Kumasi,Ashanti,Women's Shoes,Ankle Boot,37,Tan,0,343.73,0.0,35,Restock,Cash,Retail
+2024-04-08,Cape Coast,Central,Men's Shoes,Classic Oxford,42,Brown,6,261.79,1570.74,29,Sale,Card,Retail
+2024-04-08,Accra Central,Greater Accra,Sports Shoes,Running Shoe,42,Brown,0,353.69,0.0,73,Restock,Card,Retail
+2024-04-08,Takoradi,Western,Men's Shoes,Classic Oxford,45,Red,7,350.65,2454.55,74,Sale,Card,Retail
+2024-04-09,Cape Coast,Central,Children's Shoes,Kids Sneaker,44,Black,0,92.76,0.0,31,Restock,Credit,Retail
+2024-04-09,Kumasi,Ashanti,Sports Shoes,Football Boot,45,Red,0,445.51,0.0,79,Adjustment,Cash,Retail
+2024-04-11,Takoradi,Western,Sports Shoes,Football Boot,41,Grey,7,223.56,1564.92,74,Sale,Cash,Retail
+2024-04-12,Accra Central,Greater Accra,Men's Shoes,Sports Sneaker,45,Grey,7,411.25,2878.75,60,Sale,Mobile Money,Retail
+2024-04-12,Accra Central,Greater Accra,Sports Shoes,Football Boot,45,White,0,321.94,0.0,32,Return,Card,Retail
+2024-04-12,Takoradi,Western,Women's Shoes,Flat Sandal,40,Navy,0,175.18,0.0,73,Adjustment,Mobile Money,Retail
+2024-04-13,Cape Coast,Central,Sports Shoes,Football Boot,43,White,0,328.25,0.0,30,Restock,Cash,Retail
+2024-04-13,Takoradi,Western,Sports Shoes,Football Boot,41,White,0,443.7,0.0,69,Restock,Credit,Retail
+2024-04-13,Tema,Greater Accra,Women's Shoes,Ankle Boot,44,Navy,7,377.86,2645.02,23,Sale,Mobile Money,Retail
+2024-04-14,Tarkwa,Western,Sports Shoes,Running Shoe,44,Black,3,285.22,855.66,81,Sale,Card,Retail
+2024-04-15,Tarkwa,Western,Sports Shoes,Running Shoe,37,White,0,274.0,0.0,77,Restock,Credit,Retail
+2024-04-15,Accra Central,Greater Accra,Men's Shoes,Leather Boot,42,Navy,0,401.05,0.0,46,Return,Cash,Retail
+2024-04-15,Takoradi,Western,Women's Shoes,Ballet Flat,44,White,7,334.27,2339.89,14,Sale,Mobile Money,Retail
+2024-04-15,Accra Central,Greater Accra,Sandals,Ladies Slipper,45,Grey,2,72.75,145.5,65,Sale,Card,Retail
+2024-04-16,Takoradi,Western,Sandals,Men's Sandal,36,Tan,3,149.95,449.85,71,Sale,Card,Retail
+2024-04-16,Cape Coast,Central,Sports Shoes,Football Boot,45,Black,7,208.77,1461.39,46,Sale,Card,Retail
+2024-04-16,Accra Central,Greater Accra,Men's Shoes,Casual Loafer,45,Grey,3,256.49,769.47,57,Sale,Mobile Money,Retail
+2024-04-17,Takoradi,Western,Sandals,Children's Sandal,45,Grey,0,141.42,0.0,23,Adjustment,Card,Retail
+2024-04-17,Tarkwa,Western,Women's Shoes,Flat Sandal,44,Tan,0,254.76,0.0,68,Adjustment,Credit,Retail
+2024-04-18,Cape Coast,Central,Men's Shoes,Leather Boot,45,Grey,7,351.73,2462.11,41,Sale,Card,Retail
+2024-04-18,Takoradi,Western,Women's Shoes,Ballet Flat,41,Black,4,241.37,965.48,41,Sale,Card,Retail
+2024-04-18,Takoradi,Western,Men's Shoes,Leather Boot,44,Tan,0,310.2,0.0,38,Adjustment,Mobile Money,Wholesale
+2024-04-20,Tarkwa,Western,Sandals,Ladies Slipper,42,Black,3,142.78,428.34,74,Sale,Card,Wholesale
+2024-04-20,Tarkwa,Western,Men's Shoes,Casual Loafer,44,White,4,199.58,798.32,75,Sale,Mobile Money,Retail
+2024-04-20,Cape Coast,Central,Women's Shoes,Flat Sandal,40,Brown,6,239.77,1438.62,15,Sale,Credit,Retail
+2024-04-21,Tema,Greater Accra,Sandals,Ladies Slipper,43,Brown,2,158.97,317.94,61,Sale,Cash,Retail
+2024-04-22,Takoradi,Western,Children's Shoes,School Shoe,41,Navy,7,135.02,945.14,38,Sale,Cash,Retail
+2024-04-22,Accra Central,Greater Accra,Men's Shoes,Casual Loafer,40,Tan,4,410.0,1640.0,49,Sale,Cash,Wholesale
+2024-04-22,Kumasi,Ashanti,Men's Shoes,Leather Boot,45,Tan,5,248.9,1244.5,77,Sale,Cash,Wholesale
+2024-04-22,Takoradi,Western,Women's Shoes,Heeled Pump,37,White,0,373.97,0.0,63,Return,Card,Retail
+2024-04-22,Tema,Greater Accra,Children's Shoes,Kids Sneaker,38,White,6,98.41,590.46,49,Sale,Credit,Wholesale
+2024-04-22,Tarkwa,Western,Women's Shoes,Ballet Flat,40,Red,0,245.77,0.0,80,Adjustment,Card,Wholesale
+2024-04-23,Takoradi,Western,Children's Shoes,Kids Sneaker,42,Red,3,83.57,250.71,32,Sale,Card,Retail
+2024-04-24,Tema,Greater Accra,Women's Shoes,Flat Sandal,39,Black,5,179.17,895.85,64,Sale,Cash,Retail
+2024-04-24,Accra Central,Greater Accra,Sports Shoes,Running Shoe,44,Red,0,340.94,0.0,56,Restock,Cash,Wholesale
+2024-04-25,Accra Central,Greater Accra,Sandals,Men's Sandal,45,Brown,0,153.84,0.0,66,Restock,Mobile Money,Wholesale
+2024-04-26,Cape Coast,Central,Children's Shoes,Kids Sneaker,40,Navy,0,202.22,0.0,68,Return,Mobile Money,Retail
+2024-04-26,Cape Coast,Central,Children's Shoes,Canvas Shoe,39,Grey,4,132.22,528.88,15,Sale,Cash,Retail
+2024-04-26,Kumasi,Ashanti,Women's Shoes,Ballet Flat,38,Red,4,287.23,1148.92,24,Sale,Cash,Retail
+2024-04-27,Kumasi,Ashanti,Sandals,Men's Sandal,40,White,6,115.86,695.16,60,Sale,Card,Retail
+2024-04-27,Tarkwa,Western,Men's Shoes,Classic Oxford,41,Brown,0,222.13,0.0,82,Return,Card,Retail
+2024-04-27,Cape Coast,Central,Sports Shoes,Training Shoe,42,Brown,7,257.36,1801.52,35,Sale,Cash,Retail
+2024-04-27,Kumasi,Ashanti,Women's Shoes,Flat Sandal,42,Navy,0,315.16,0.0,20,Restock,Mobile Money,Retail
+2024-04-27,Kumasi,Ashanti,Sports Shoes,Running Shoe,39,Black,4,321.56,1286.24,8,Sale,Cash,Retail
+2024-04-28,Cape Coast,Central,Women's Shoes,Heeled Pump,45,Red,5,281.6,1408.0,58,Sale,Card,Retail
+2024-04-28,Takoradi,Western,Sandals,Children's Sandal,36,Black,6,144.66,867.96,49,Sale,Cash,Retail
+2024-04-29,Kumasi,Ashanti,Children's Shoes,School Shoe,38,Brown,1,211.81,211.81,19,Sale,Cash,Retail
+2024-04-29,Tarkwa,Western,Children's Shoes,Canvas Shoe,36,Red,0,160.8,0.0,21,Restock,Credit,Retail
+2024-04-29,Kumasi,Ashanti,Men's Shoes,Casual Loafer,42,Navy,6,357.18,2143.08,8,Sale,Credit,Retail
+2024-04-29,Tema,Greater Accra,Sandals,Men's Sandal,37,Grey,4,100.62,402.48,54,Sale,Card,Wholesale
+2024-04-30,Tarkwa,Western,Women's Shoes,Ballet Flat,41,Red,1,366.49,366.49,80,Sale,Mobile Money,Retail
+2024-05-01,Cape Coast,Central,Sports Shoes,Running Shoe,41,Navy,4,252.13,1008.52,72,Sale,Cash,Wholesale
+2024-05-01,Tarkwa,Western,Sandals,Ladies Slipper,37,Tan,4,69.55,278.2,22,Sale,Cash,Retail
+2024-05-02,Kumasi,Ashanti,Children's Shoes,School Shoe,38,Brown,5,181.6,908.0,82,Sale,Credit,Wholesale
+2024-05-03,Tema,Greater Accra,Sandals,Ladies Slipper,42,White,0,156.42,0.0,59,Return,Cash,Retail
+2024-05-03,Tarkwa,Western,Children's Shoes,Kids Sneaker,39,Red,1,97.13,97.13,38,Sale,Cash,Retail
+2024-05-04,Tema,Greater Accra,Children's Shoes,Kids Sneaker,41,Navy,3,103.14,309.42,32,Sale,Mobile Money,Wholesale
+2024-05-05,Tema,Greater Accra,Men's Shoes,Leather Boot,41,Brown,3,360.07,1080.21,18,Sale,Mobile Money,Wholesale
+2024-05-05,Kumasi,Ashanti,Sandals,Men's Sandal,37,Brown,5,146.77,733.85,11,Sale,Mobile Money,Retail
+2024-05-05,Kumasi,Ashanti,Men's Shoes,Leather Boot,45,Black,1,418.2,418.2,64,Sale,Card,Retail
+2024-05-06,Cape Coast,Central,Men's Shoes,Sports Sneaker,42,White,5,396.26,1981.3,57,Sale,Credit,Retail
+2024-05-06,Tarkwa,Western,Women's Shoes,Ankle Boot,43,Grey,2,360.09,720.18,64,Sale,Cash,Retail
+2024-05-07,Takoradi,Western,Sports Shoes,Football Boot,39,Red,0,279.39,0.0,57,Restock,Credit,Retail
+2024-05-07,Accra Central,Greater Accra,Children's Shoes,Canvas Shoe,44,Grey,4,109.58,438.32,74,Sale,Mobile Money,Retail
+2024-05-07,Kumasi,Ashanti,Men's Shoes,Classic Oxford,44,Tan,2,228.92,457.84,13,Sale,Card,Retail
+2024-05-08,Accra Central,Greater Accra,Men's Shoes,Sports Sneaker,44,Black,4,365.8,1463.2,52,Sale,Mobile Money,Wholesale
+2024-05-09,Accra Central,Greater Accra,Sandals,Children's Sandal,43,Tan,7,147.89,1035.23,5,Sale,Cash,Retail
+2024-05-09,Tema,Greater Accra,Sports Shoes,Training Shoe,36,Red,3,294.74,884.22,84,Sale,Card,Wholesale
+2024-05-09,Kumasi,Ashanti,Sandals,Men's Sandal,41,Navy,1,177.61,177.61,53,Sale,Cash,Wholesale
+2024-05-10,Takoradi,Western,Sports Shoes,Training Shoe,43,Tan,7,415.5,2908.5,69,Sale,Cash,Retail
+2024-05-10,Tema,Greater Accra,Sports Shoes,Running Shoe,37,Black,2,401.63,803.26,69,Sale,Credit,Retail
+2024-05-10,Tema,Greater Accra,Sandals,Men's Sandal,43,Navy,4,176.1,704.4,50,Sale,Mobile Money,Retail
+2024-05-10,Takoradi,Western,Sports Shoes,Running Shoe,39,Tan,4,460.69,1842.76,9,Sale,Credit,Retail
+2024-05-10,Accra Central,Greater Accra,Sandals,Children's Sandal,41,Navy,4,124.79,499.16,82,Sale,Card,Retail
+2024-05-11,Takoradi,Western,Sandals,Men's Sandal,37,Grey,1,82.84,82.84,46,Sale,Credit,Wholesale
+2024-05-11,Takoradi,Western,Sports Shoes,Training Shoe,36,Navy,4,271.53,1086.12,7,Sale,Mobile Money,Retail
+2024-05-12,Kumasi,Ashanti,Women's Shoes,Heeled Pump,40,Tan,0,349.91,0.0,65,Restock,Card,Wholesale
+2024-05-12,Kumasi,Ashanti,Men's Shoes,Leather Boot,41,Brown,6,242.02,1452.12,26,Sale,Credit,Retail
+2024-05-12,Accra Central,Greater Accra,Children's Shoes,School Shoe,37,Black,5,179.3,896.5,42,Sale,Mobile Money,Retail
+2024-05-13,Kumasi,Ashanti,Children's Shoes,Kids Sneaker,38,Grey,5,190.91,954.55,45,Sale,Cash,Retail
+2024-05-13,Tema,Greater Accra,Sports Shoes,Running Shoe,36,White,0,454.18,0.0,27,Adjustment,Mobile Money,Wholesale
+2024-05-14,Cape Coast,Central,Sports Shoes,Football Boot,36,Navy,2,229.75,459.5,14,Sale,Mobile Money,Retail
+2024-05-14,Tema,Greater Accra,Children's Shoes,Canvas Shoe,45,Black,4,102.02,408.08,48,Sale,Credit,Wholesale
+2024-05-16,Kumasi,Ashanti,Sandals,Children's Sandal,43,Grey,5,123.21,616.05,36,Sale,Mobile Money,Wholesale
+2024-05-16,Tarkwa,Western,Sandals,Ladies Slipper,39,Red,3,121.43,364.29,38,Sale,Cash,Retail
+2024-05-16,Tema,Greater Accra,Children's Shoes,School Shoe,43,Grey,7,128.46,899.22,80,Sale,Cash,Retail
+2024-05-16,Takoradi,Western,Women's Shoes,Heeled Pump,38,Grey,0,249.28,0.0,5,Return,Cash,Wholesale
+2024-05-17,Accra Central,Greater Accra,Sports Shoes,Training Shoe,37,Red,2,215.68,431.36,18,Sale,Card,Retail
+2024-05-18,Cape Coast,Central,Women's Shoes,Ballet Flat,42,Brown,2,248.94,497.88,34,Sale,Cash,Wholesale
+2024-05-18,Kumasi,Ashanti,Children's Shoes,School Shoe,40,Navy,2,183.25,366.5,35,Sale,Card,Wholesale
+2024-05-19,Tarkwa,Western,Sports Shoes,Football Boot,38,White,5,479.14,2395.7,56,Sale,Credit,Wholesale
+2024-05-19,Takoradi,Western,Children's Shoes,School Shoe,42,Navy,3,119.86,359.58,35,Sale,Cash,Retail
+2024-05-20,Tema,Greater Accra,Children's Shoes,School Shoe,43,Navy,1,99.41,99.41,29,Sale,Card,Retail
+2024-05-20,Takoradi,Western,Children's Shoes,Canvas Shoe,45,Red,5,124.7,623.5,61,Sale,Card,Retail
+2024-05-20,Kumasi,Ashanti,Men's Shoes,Classic Oxford,43,Black,1,441.7,441.7,63,Sale,Card,Retail
+2024-05-21,Cape Coast,Central,Men's Shoes,Sports Sneaker,44,Black,7,266.59,1866.13,67,Sale,Cash,Retail
+2024-05-22,Cape Coast,Central,Men's Shoes,Leather Boot,40,Tan,0,190.63,0.0,21,Restock,Cash,Retail
+2024-05-22,Takoradi,Western,Men's Shoes,Leather Boot,45,Grey,1,293.02,293.02,26,Sale,Credit,Retail
+2024-05-22,Cape Coast,Central,Men's Shoes,Classic Oxford,44,Grey,5,412.48,2062.4,16,Sale,Card,Retail
+2024-05-23,Tarkwa,Western,Children's Shoes,Canvas Shoe,43,White,5,168.49,842.45,49,Sale,Cash,Wholesale
+2024-05-23,Kumasi,Ashanti,Sandals,Children's Sandal,40,Black,6,101.73,610.38,69,Sale,Mobile Money,Retail
+2024-05-23,Cape Coast,Central,Men's Shoes,Sports Sneaker,42,Brown,4,363.73,1454.92,27,Sale,Credit,Retail
+2024-05-23,Tarkwa,Western,Children's Shoes,Canvas Shoe,39,Tan,1,200.19,200.19,5,Sale,Credit,Retail
+2024-05-23,Takoradi,Western,Sports Shoes,Training Shoe,42,Grey,7,302.54,2117.78,62,Sale,Cash,Retail
+2024-05-24,Tarkwa,Western,Children's Shoes,School Shoe,45,Black,3,110.44,331.32,25,Sale,Credit,Wholesale
+2024-05-24,Tema,Greater Accra,Women's Shoes,Flat Sandal,44,Brown,5,273.57,1367.85,48,Sale,Card,Retail
+2024-05-24,Tarkwa,Western,Women's Shoes,Ballet Flat,44,Black,5,243.41,1217.05,43,Sale,Cash,Retail
+2024-05-24,Takoradi,Western,Sports Shoes,Training Shoe,43,Brown,7,219.75,1538.25,11,Sale,Mobile Money,Wholesale
+2024-05-24,Accra Central,Greater Accra,Sandals,Men's Sandal,36,Black,6,79.17,475.02,41,Sale,Cash,Retail
+2024-05-25,Accra Central,Greater Accra,Sports Shoes,Training Shoe,37,Brown,6,453.63,2721.78,12,Sale,Credit,Wholesale
+2024-05-25,Accra Central,Greater Accra,Men's Shoes,Leather Boot,41,Navy,0,190.79,0.0,6,Restock,Credit,Retail
+2024-05-25,Takoradi,Western,Women's Shoes,Flat Sandal,37,Brown,0,178.62,0.0,76,Return,Cash,Retail
+2024-05-25,Takoradi,Western,Sports Shoes,Training Shoe,38,White,6,222.3,1333.8,11,Sale,Mobile Money,Wholesale
+2024-05-26,Cape Coast,Central,Sports Shoes,Running Shoe,36,Grey,5,368.84,1844.2,83,Sale,Cash,Retail
+2024-05-26,Takoradi,Western,Sports Shoes,Running Shoe,40,Black,3,283.53,850.59,21,Sale,Cash,Retail
+2024-05-27,Takoradi,Western,Children's Shoes,Kids Sneaker,38,Black,2,173.51,347.02,48,Sale,Mobile Money,Retail
+2024-05-27,Accra Central,Greater Accra,Children's Shoes,School Shoe,40,Red,0,123.24,0.0,84,Adjustment,Card,Retail
+2024-05-27,Tema,Greater Accra,Sandals,Children's Sandal,38,Navy,1,179.94,179.94,52,Sale,Credit,Retail
+2024-05-28,Cape Coast,Central,Children's Shoes,School Shoe,37,Red,5,195.15,975.75,79,Sale,Cash,Wholesale
+2024-05-28,Tema,Greater Accra,Men's Shoes,Leather Boot,43,Black,3,386.64,1159.92,78,Sale,Card,Wholesale
+2024-05-29,Tarkwa,Western,Sports Shoes,Training Shoe,43,Red,1,371.38,371.38,10,Sale,Card,Wholesale
+2024-05-30,Kumasi,Ashanti,Children's Shoes,School Shoe,44,Black,2,95.61,191.22,57,Sale,Cash,Retail
+2024-05-30,Takoradi,Western,Children's Shoes,Kids Sneaker,37,Navy,6,192.34,1154.04,65,Sale,Mobile Money,Retail
+2024-05-30,Tema,Greater Accra,Sandals,Men's Sandal,44,Black,2,152.84,305.68,15,Sale,Credit,Retail
+2024-05-31,Takoradi,Western,Sandals,Ladies Slipper,42,White,0,90.46,0.0,71,Return,Cash,Retail
+2024-05-31,Tema,Greater Accra,Children's Shoes,Canvas Shoe,42,White,3,180.32,540.96,55,Sale,Cash,Wholesale
+2024-06-01,Cape Coast,Central,Children's Shoes,School Shoe,45,Brown,5,156.88,784.4,61,Sale,Mobile Money,Retail
+2024-06-01,Tarkwa,Western,Sports Shoes,Football Boot,42,Tan,1,361.42,361.42,84,Sale,Card,Retail
+2024-06-01,Tarkwa,Western,Children's Shoes,Canvas Shoe,41,Navy,6,217.88,1307.28,58,Sale,Cash,Retail
+2024-06-02,Cape Coast,Central,Men's Shoes,Sports Sneaker,37,White,2,350.11,700.22,22,Sale,Credit,Retail
+2024-06-02,Tema,Greater Accra,Sports Shoes,Football Boot,37,White,7,468.08,3276.56,73,Sale,Credit,Wholesale
+2024-06-02,Tema,Greater Accra,Sandals,Children's Sandal,41,Tan,6,173.0,1038.0,14,Sale,Mobile Money,Retail
+2024-06-03,Cape Coast,Central,Sandals,Children's Sandal,45,White,3,179.72,539.16,19,Sale,Cash,Retail
+2024-06-04,Kumasi,Ashanti,Men's Shoes,Leather Boot,40,Navy,2,248.48,496.96,74,Sale,Credit,Retail
+2024-06-05,Cape Coast,Central,Children's Shoes,Canvas Shoe,41,White,3,109.41,328.23,22,Sale,Credit,Retail
+2024-06-05,Tema,Greater Accra,Sandals,Children's Sandal,38,Red,6,123.06,738.36,18,Sale,Cash,Wholesale
+2024-06-05,Cape Coast,Central,Women's Shoes,Flat Sandal,37,Navy,0,232.3,0.0,12,Restock,Card,Wholesale
+2024-06-05,Takoradi,Western,Men's Shoes,Casual Loafer,44,Navy,2,380.24,760.48,46,Sale,Cash,Retail
+2024-06-06,Tarkwa,Western,Men's Shoes,Sports Sneaker,38,Grey,3,254.79,764.37,76,Sale,Cash,Retail
+2024-06-06,Accra Central,Greater Accra,Sports Shoes,Football Boot,40,Red,6,253.78,1522.68,27,Sale,Card,Retail
+2024-06-07,Accra Central,Greater Accra,Children's Shoes,School Shoe,41,Tan,6,197.4,1184.4,82,Sale,Card,Retail
+2024-06-07,Tema,Greater Accra,Women's Shoes,Heeled Pump,36,Navy,4,306.4,1225.6,52,Sale,Credit,Wholesale
+2024-06-08,Tarkwa,Western,Children's Shoes,Kids Sneaker,43,Navy,1,101.4,101.4,78,Sale,Card,Wholesale
+2024-06-08,Kumasi,Ashanti,Sports Shoes,Running Shoe,43,White,7,378.04,2646.28,82,Sale,Credit,Wholesale
+2024-06-08,Accra Central,Greater Accra,Women's Shoes,Flat Sandal,39,Tan,0,332.45,0.0,84,Restock,Card,Wholesale
+2024-06-08,Tarkwa,Western,Men's Shoes,Casual Loafer,41,White,0,385.49,0.0,25,Adjustment,Mobile Money,Retail
+2024-06-09,Takoradi,Western,Women's Shoes,Ankle Boot,38,Red,2,271.07,542.14,18,Sale,Mobile Money,Retail
+2024-06-09,Tema,Greater Accra,Men's Shoes,Sports Sneaker,38,Tan,0,343.62,0.0,28,Adjustment,Credit,Retail
+2024-06-09,Accra Central,Greater Accra,Women's Shoes,Ballet Flat,42,White,7,334.81,2343.67,27,Sale,Cash,Wholesale
+2024-06-09,Kumasi,Ashanti,Children's Shoes,School Shoe,43,Grey,6,110.09,660.54,80,Sale,Card,Retail
+2024-06-09,Tema,Greater Accra,Women's Shoes,Ballet Flat,37,Black,1,359.92,359.92,57,Sale,Card,Retail
+2024-06-10,Kumasi,Ashanti,Children's Shoes,School Shoe,37,Navy,2,120.53,241.06,52,Sale,Mobile Money,Wholesale
+2024-06-10,Cape Coast,Central,Sports Shoes,Training Shoe,38,Tan,7,400.85,2805.95,48,Sale,Cash,Wholesale
+2024-06-11,Takoradi,Western,Women's Shoes,Ballet Flat,36,White,0,255.35,0.0,6,Return,Card,Retail
+2024-06-11,Cape Coast,Central,Sandals,Children's Sandal,44,White,6,151.08,906.48,69,Sale,Card,Retail
+2024-06-13,Cape Coast,Central,Children's Shoes,Kids Sneaker,36,Red,7,177.94,1245.58,68,Sale,Cash,Retail
+2024-06-13,Takoradi,Western,Women's Shoes,Flat Sandal,39,Grey,0,307.91,0.0,38,Restock,Credit,Retail
+2024-06-13,Tema,Greater Accra,Women's Shoes,Flat Sandal,45,Black,0,245.45,0.0,37,Return,Credit,Retail
+2024-06-14,Accra Central,Greater Accra,Sports Shoes,Training Shoe,44,Brown,0,462.1,0.0,22,Restock,Mobile Money,Retail
+2024-06-15,Kumasi,Ashanti,Women's Shoes,Ankle Boot,41,Navy,6,178.92,1073.52,49,Sale,Mobile Money,Retail
+2024-06-15,Tema,Greater Accra,Men's Shoes,Casual Loafer,37,Navy,6,411.38,2468.28,7,Sale,Credit,Wholesale
+2024-06-16,Cape Coast,Central,Sandals,Men's Sandal,39,Black,3,156.49,469.47,23,Sale,Cash,Wholesale
+2024-06-16,Tema,Greater Accra,Children's Shoes,School Shoe,45,Brown,6,197.6,1185.6,22,Sale,Cash,Retail
+2024-06-16,Accra Central,Greater Accra,Children's Shoes,School Shoe,38,Grey,0,91.3,0.0,78,Restock,Credit,Retail
+2024-06-16,Tema,Greater Accra,Sandals,Ladies Slipper,39,Brown,4,92.8,371.2,47,Sale,Card,Wholesale
+2024-06-18,Takoradi,Western,Women's Shoes,Flat Sandal,39,Navy,2,255.32,510.64,40,Sale,Cash,Retail
+2024-06-18,Accra Central,Greater Accra,Children's Shoes,Canvas Shoe,38,Black,0,89.87,0.0,5,Restock,Cash,Retail
+2024-06-18,Accra Central,Greater Accra,Men's Shoes,Casual Loafer,41,Brown,0,401.01,0.0,42,Restock,Cash,Retail
+2024-06-19,Takoradi,Western,Sandals,Ladies Slipper,39,Tan,0,62.15,0.0,83,Return,Credit,Retail
+2024-06-19,Kumasi,Ashanti,Children's Shoes,Canvas Shoe,41,Navy,3,161.29,483.87,22,Sale,Cash,Retail
+2024-06-20,Kumasi,Ashanti,Sandals,Ladies Slipper,43,Grey,6,176.72,1060.32,69,Sale,Cash,Retail
+2024-06-20,Cape Coast,Central,Men's Shoes,Sports Sneaker,36,Brown,7,290.52,2033.64,32,Sale,Mobile Money,Wholesale
+2024-06-20,Cape Coast,Central,Women's Shoes,Heeled Pump,45,Brown,1,366.46,366.46,65,Sale,Card,Wholesale
+2024-06-21,Takoradi,Western,Sandals,Men's Sandal,42,White,0,145.33,0.0,57,Restock,Mobile Money,Wholesale
+2024-06-21,Cape Coast,Central,Children's Shoes,School Shoe,37,Tan,7,106.17,743.19,62,Sale,Mobile Money,Retail
+2024-06-21,Cape Coast,Central,Women's Shoes,Heeled Pump,37,Brown,1,313.71,313.71,8,Sale,Card,Wholesale
+2024-06-22,Accra Central,Greater Accra,Children's Shoes,Kids Sneaker,44,Red,6,111.35,668.1,34,Sale,Card,Wholesale
+2024-06-23,Tarkwa,Western,Children's Shoes,Canvas Shoe,38,White,7,143.98,1007.86,15,Sale,Card,Retail
+2024-06-24,Tema,Greater Accra,Women's Shoes,Ankle Boot,42,Tan,7,235.82,1650.74,79,Sale,Cash,Retail
+2024-06-24,Takoradi,Western,Women's Shoes,Flat Sandal,39,Brown,1,243.89,243.89,75,Sale,Card,Retail
+2024-06-25,Tema,Greater Accra,Sports Shoes,Running Shoe,40,Brown,5,353.95,1769.75,81,Sale,Credit,Retail
+2024-06-25,Kumasi,Ashanti,Sandals,Ladies Slipper,43,White,7,93.05,651.35,73,Sale,Mobile Money,Wholesale
+2024-06-25,Cape Coast,Central,Women's Shoes,Ballet Flat,40,Tan,1,303.4,303.4,20,Sale,Credit,Wholesale
+2024-06-26,Accra Central,Greater Accra,Men's Shoes,Leather Boot,45,Grey,2,372.01,744.02,16,Sale,Mobile Money,Retail
+2024-06-26,Tarkwa,Western,Men's Shoes,Casual Loafer,41,Brown,6,237.61,1425.66,67,Sale,Credit,Wholesale
+2024-06-27,Cape Coast,Central,Children's Shoes,Canvas Shoe,43,White,7,93.11,651.77,79,Sale,Credit,Retail
+2024-06-27,Accra Central,Greater Accra,Sandals,Children's Sandal,37,Navy,3,112.36,337.08,77,Sale,Cash,Retail
+2024-06-28,Cape Coast,Central,Men's Shoes,Leather Boot,37,White,2,306.58,613.16,46,Sale,Credit,Retail
+2024-06-28,Tema,Greater Accra,Women's Shoes,Ankle Boot,37,Brown,4,349.08,1396.32,23,Sale,Credit,Retail
+2024-06-29,Tema,Greater Accra,Children's Shoes,Canvas Shoe,38,Tan,3,182.09,546.27,59,Sale,Card,Retail
+2024-06-30,Kumasi,Ashanti,Sports Shoes,Football Boot,38,Tan,5,447.61,2238.05,32,Sale,Cash,Retail
+2024-06-30,Tema,Greater Accra,Women's Shoes,Ballet Flat,45,Grey,4,197.38,789.52,44,Sale,Cash,Retail
+2024-06-30,Tarkwa,Western,Children's Shoes,Canvas Shoe,44,Grey,0,145.87,0.0,68,Restock,Credit,Retail
+2024-06-30,Accra Central,Greater Accra,Sports Shoes,Running Shoe,45,Navy,4,309.45,1237.8,74,Sale,Cash,Retail
+2024-07-01,Cape Coast,Central,Women's Shoes,Heeled Pump,39,White,7,211.34,1479.38,13,Sale,Cash,Retail
+2024-07-01,Takoradi,Western,Children's Shoes,School Shoe,45,Navy,6,147.72,886.32,28,Sale,Mobile Money,Retail
+2024-07-02,Takoradi,Western,Children's Shoes,Canvas Shoe,45,Black,4,152.69,610.76,62,Sale,Cash,Retail
+2024-07-02,Kumasi,Ashanti,Women's Shoes,Ballet Flat,39,Tan,2,285.41,570.82,79,Sale,Credit,Retail
+2024-07-04,Cape Coast,Central,Women's Shoes,Flat Sandal,41,Tan,7,225.0,1575.0,74,Sale,Mobile Money,Retail
+2024-07-05,Takoradi,Western,Men's Shoes,Leather Boot,39,Tan,4,258.5,1034.0,19,Sale,Cash,Wholesale
+2024-07-05,Accra Central,Greater Accra,Men's Shoes,Classic Oxford,40,Grey,5,342.94,1714.7,23,Sale,Mobile Money,Retail
+2024-07-05,Kumasi,Ashanti,Women's Shoes,Flat Sandal,37,Grey,0,340.15,0.0,9,Restock,Mobile Money,Wholesale
+2024-07-06,Cape Coast,Central,Sports Shoes,Football Boot,39,Brown,7,283.33,1983.31,10,Sale,Card,Retail
+2024-07-06,Kumasi,Ashanti,Sports Shoes,Running Shoe,39,Red,0,455.36,0.0,76,Return,Mobile Money,Wholesale
+2024-07-07,Kumasi,Ashanti,Women's Shoes,Ballet Flat,43,Grey,7,250.78,1755.46,54,Sale,Credit,Wholesale
+2024-07-08,Kumasi,Ashanti,Men's Shoes,Classic Oxford,37,Navy,0,445.69,0.0,30,Restock,Mobile Money,Retail
+2024-07-08,Takoradi,Western,Children's Shoes,School Shoe,40,Red,4,162.38,649.52,60,Sale,Card,Retail
+2024-07-08,Tarkwa,Western,Sandals,Men's Sandal,45,Red,0,151.99,0.0,70,Adjustment,Credit,Retail
+2024-07-08,Tema,Greater Accra,Children's Shoes,School Shoe,44,Navy,7,148.55,1039.85,58,Sale,Card,Wholesale
+2024-07-08,Tema,Greater Accra,Women's Shoes,Ankle Boot,36,Tan,7,304.27,2129.89,63,Sale,Credit,Retail
+2024-07-09,Kumasi,Ashanti,Sports Shoes,Football Boot,42,Navy,4,258.49,1033.96,10,Sale,Cash,Retail
+2024-07-09,Accra Central,Greater Accra,Sandals,Ladies Slipper,40,Black,1,118.28,118.28,9,Sale,Mobile Money,Retail
+2024-07-10,Cape Coast,Central,Men's Shoes,Sports Sneaker,38,White,6,188.53,1131.18,77,Sale,Credit,Retail
+2024-07-10,Tema,Greater Accra,Sandals,Ladies Slipper,42,Grey,4,116.34,465.36,83,Sale,Card,Retail
+2024-07-10,Tema,Greater Accra,Children's Shoes,Kids Sneaker,42,Brown,5,91.21,456.05,7,Sale,Credit,Retail
+2024-07-10,Tema,Greater Accra,Sports Shoes,Running Shoe,45,Tan,4,311.8,1247.2,33,Sale,Credit,Wholesale
+2024-07-12,Takoradi,Western,Women's Shoes,Flat Sandal,36,Tan,0,213.97,0.0,75,Return,Credit,Retail
+2024-07-12,Accra Central,Greater Accra,Sandals,Ladies Slipper,36,Black,7,156.36,1094.52,48,Sale,Credit,Retail
+2024-07-12,Tema,Greater Accra,Sandals,Men's Sandal,44,Black,5,119.57,597.85,52,Sale,Credit,Retail
+2024-07-13,Accra Central,Greater Accra,Sports Shoes,Football Boot,43,Red,7,371.52,2600.64,55,Sale,Credit,Retail
+2024-07-13,Cape Coast,Central,Sports Shoes,Football Boot,36,Brown,6,341.9,2051.4,7,Sale,Mobile Money,Wholesale
+2024-07-13,Takoradi,Western,Sandals,Ladies Slipper,41,White,0,100.91,0.0,6,Return,Mobile Money,Retail
+2024-07-13,Takoradi,Western,Sandals,Ladies Slipper,37,Grey,4,122.84,491.36,70,Sale,Mobile Money,Retail
+2024-07-14,Tema,Greater Accra,Men's Shoes,Casual Loafer,40,Grey,4,447.49,1789.96,34,Sale,Card,Retail
+2024-07-14,Tarkwa,Western,Women's Shoes,Ballet Flat,36,Red,1,286.9,286.9,65,Sale,Cash,Retail
+2024-07-14,Tema,Greater Accra,Children's Shoes,Kids Sneaker,43,Black,3,119.59,358.77,15,Sale,Cash,Wholesale
+2024-07-16,Kumasi,Ashanti,Sports Shoes,Training Shoe,45,Grey,5,302.7,1513.5,36,Sale,Mobile Money,Wholesale
+2024-07-16,Accra Central,Greater Accra,Children's Shoes,School Shoe,39,Black,7,168.61,1180.27,41,Sale,Credit,Wholesale
+2024-07-18,Takoradi,Western,Children's Shoes,Canvas Shoe,37,Red,5,88.46,442.3,75,Sale,Card,Retail
+2024-07-19,Takoradi,Western,Sandals,Men's Sandal,40,Grey,3,124.13,372.39,64,Sale,Card,Wholesale
+2024-07-19,Kumasi,Ashanti,Children's Shoes,School Shoe,40,Tan,4,130.21,520.84,44,Sale,Mobile Money,Wholesale
+2024-07-19,Kumasi,Ashanti,Women's Shoes,Heeled Pump,44,Navy,2,270.56,541.12,62,Sale,Cash,Retail
+2024-07-19,Kumasi,Ashanti,Women's Shoes,Ballet Flat,36,Red,4,343.68,1374.72,20,Sale,Mobile Money,Retail
+2024-07-19,Takoradi,Western,Sports Shoes,Training Shoe,38,White,4,269.28,1077.12,55,Sale,Credit,Retail
+2024-07-20,Tarkwa,Western,Sandals,Ladies Slipper,45,Navy,0,175.4,0.0,35,Restock,Card,Retail
+2024-07-20,Cape Coast,Central,Women's Shoes,Ankle Boot,36,Brown,2,305.79,611.58,17,Sale,Card,Retail
+2024-07-21,Tema,Greater Accra,Children's Shoes,Canvas Shoe,40,Black,1,175.31,175.31,50,Sale,Mobile Money,Retail
+2024-07-21,Accra Central,Greater Accra,Women's Shoes,Heeled Pump,39,Grey,5,289.89,1449.45,54,Sale,Mobile Money,Wholesale
+2024-07-22,Kumasi,Ashanti,Women's Shoes,Ballet Flat,39,Red,2,151.44,302.88,63,Sale,Card,Retail
+2024-07-23,Tema,Greater Accra,Sports Shoes,Training Shoe,37,Black,1,337.99,337.99,47,Sale,Mobile Money,Retail
+2024-07-24,Takoradi,Western,Children's Shoes,School Shoe,42,Tan,0,194.69,0.0,13,Restock,Card,Retail
+2024-07-25,Accra Central,Greater Accra,Children's Shoes,Canvas Shoe,37,Navy,2,91.01,182.02,41,Sale,Credit,Retail
+2024-07-25,Cape Coast,Central,Women's Shoes,Ballet Flat,41,Red,5,253.44,1267.2,74,Sale,Cash,Wholesale
+2024-07-26,Takoradi,Western,Women's Shoes,Flat Sandal,39,Navy,0,332.3,0.0,21,Adjustment,Cash,Wholesale
+2024-07-27,Kumasi,Ashanti,Sandals,Ladies Slipper,39,White,2,120.67,241.34,19,Sale,Mobile Money,Wholesale
+2024-07-28,Tema,Greater Accra,Sandals,Men's Sandal,38,Tan,5,81.98,409.9,43,Sale,Credit,Retail
+2024-07-28,Accra Central,Greater Accra,Sports Shoes,Running Shoe,41,Tan,7,497.95,3485.65,71,Sale,Card,Retail
+2024-07-30,Kumasi,Ashanti,Women's Shoes,Heeled Pump,37,Brown,2,162.59,325.18,5,Sale,Cash,Retail
+2024-07-31,Accra Central,Greater Accra,Sandals,Ladies Slipper,39,Grey,5,112.14,560.7,57,Sale,Card,Retail
+2024-08-01,Tema,Greater Accra,Men's Shoes,Casual Loafer,41,Tan,3,372.69,1118.07,24,Sale,Card,Retail
+2024-08-02,Cape Coast,Central,Children's Shoes,Canvas Shoe,39,Grey,0,133.71,0.0,15,Restock,Card,Retail
+2024-08-02,Tarkwa,Western,Men's Shoes,Leather Boot,44,Grey,3,250.09,750.27,41,Sale,Cash,Wholesale
+2024-08-02,Tema,Greater Accra,Sports Shoes,Football Boot,42,Grey,7,398.41,2788.87,30,Sale,Credit,Retail
+2024-08-03,Accra Central,Greater Accra,Women's Shoes,Heeled Pump,42,Red,3,342.41,1027.23,41,Sale,Credit,Retail
+2024-08-03,Kumasi,Ashanti,Children's Shoes,School Shoe,38,Tan,5,214.68,1073.4,22,Sale,Credit,Retail
+2024-08-03,Takoradi,Western,Women's Shoes,Flat Sandal,36,White,0,315.37,0.0,81,Restock,Credit,Retail
+2024-08-03,Cape Coast,Central,Sandals,Men's Sandal,36,Red,7,87.29,611.03,64,Sale,Card,Wholesale
+2024-08-04,Tema,Greater Accra,Sports Shoes,Training Shoe,43,Grey,0,207.74,0.0,83,Adjustment,Credit,Wholesale
+2024-08-04,Takoradi,Western,Women's Shoes,Heeled Pump,44,Red,2,307.27,614.54,33,Sale,Credit,Retail
+2024-08-04,Accra Central,Greater Accra,Women's Shoes,Flat Sandal,39,Grey,0,287.86,0.0,77,Return,Cash,Retail
+2024-08-04,Tarkwa,Western,Sandals,Children's Sandal,45,Tan,0,179.0,0.0,57,Return,Card,Wholesale
+2024-08-04,Cape Coast,Central,Men's Shoes,Classic Oxford,38,White,0,444.12,0.0,60,Restock,Mobile Money,Wholesale
+2024-08-05,Tarkwa,Western,Sandals,Men's Sandal,36,Red,0,86.92,0.0,12,Return,Credit,Retail
+2024-08-05,Tarkwa,Western,Women's Shoes,Ankle Boot,42,Black,2,255.1,510.2,30,Sale,Credit,Wholesale
+2024-08-05,Kumasi,Ashanti,Men's Shoes,Sports Sneaker,41,Grey,4,297.1,1188.4,52,Sale,Card,Wholesale
+2024-08-05,Tarkwa,Western,Sports Shoes,Training Shoe,36,White,5,289.62,1448.1,23,Sale,Mobile Money,Retail
+2024-08-07,Tarkwa,Western,Men's Shoes,Casual Loafer,40,Brown,4,418.78,1675.12,84,Sale,Cash,Retail
+2024-08-07,Accra Central,Greater Accra,Women's Shoes,Flat Sandal,41,Grey,7,303.34,2123.38,61,Sale,Cash,Retail
+2024-08-07,Kumasi,Ashanti,Sports Shoes,Football Boot,45,White,4,499.29,1997.16,18,Sale,Cash,Retail
+2024-08-07,Kumasi,Ashanti,Children's Shoes,School Shoe,36,Tan,2,198.6,397.2,52,Sale,Credit,Retail
+2024-08-09,Takoradi,Western,Children's Shoes,Canvas Shoe,42,Red,4,100.12,400.48,32,Sale,Card,Retail
+2024-08-10,Tarkwa,Western,Men's Shoes,Sports Sneaker,42,Brown,1,242.73,242.73,45,Sale,Credit,Retail
+2024-08-10,Tarkwa,Western,Men's Shoes,Classic Oxford,37,Brown,5,298.98,1494.9,35,Sale,Cash,Retail
+2024-08-10,Tema,Greater Accra,Sports Shoes,Running Shoe,38,White,0,345.14,0.0,54,Return,Mobile Money,Retail
+2024-08-10,Kumasi,Ashanti,Sports Shoes,Football Boot,38,Brown,0,466.87,0.0,70,Restock,Mobile Money,Retail
+2024-08-11,Takoradi,Western,Sports Shoes,Running Shoe,37,Brown,5,340.71,1703.55,35,Sale,Credit,Retail
+2024-08-12,Tarkwa,Western,Sandals,Men's Sandal,43,Tan,6,105.65,633.9,82,Sale,Cash,Retail
+2024-08-12,Cape Coast,Central,Women's Shoes,Ballet Flat,37,White,1,321.03,321.03,76,Sale,Mobile Money,Wholesale
+2024-08-12,Takoradi,Western,Children's Shoes,School Shoe,38,Red,2,209.09,418.18,65,Sale,Mobile Money,Wholesale
+2024-08-12,Cape Coast,Central,Men's Shoes,Classic Oxford,37,Grey,0,241.69,0.0,71,Adjustment,Credit,Retail
+2024-08-12,Tarkwa,Western,Men's Shoes,Classic Oxford,38,Tan,0,312.49,0.0,75,Restock,Credit,Wholesale
+2024-08-13,Accra Central,Greater Accra,Children's Shoes,Kids Sneaker,38,White,0,211.29,0.0,51,Return,Mobile Money,Retail
+2024-08-13,Tema,Greater Accra,Men's Shoes,Sports Sneaker,36,White,1,250.34,250.34,69,Sale,Mobile Money,Retail
+2024-08-13,Kumasi,Ashanti,Sports Shoes,Training Shoe,41,Grey,6,483.56,2901.36,34,Sale,Credit,Retail
+2024-08-13,Kumasi,Ashanti,Men's Shoes,Leather Boot,45,White,1,339.15,339.15,47,Sale,Mobile Money,Wholesale
+2024-08-13,Tema,Greater Accra,Sports Shoes,Football Boot,44,Navy,2,255.31,510.62,7,Sale,Card,Retail
+2024-08-14,Accra Central,Greater Accra,Sandals,Men's Sandal,45,Black,4,112.71,450.84,44,Sale,Card,Retail
+2024-08-14,Tarkwa,Western,Women's Shoes,Flat Sandal,42,Brown,6,287.5,1725.0,27,Sale,Cash,Retail
+2024-08-14,Tarkwa,Western,Sandals,Ladies Slipper,44,White,7,68.28,477.96,41,Sale,Card,Wholesale
+2024-08-15,Takoradi,Western,Men's Shoes,Casual Loafer,45,Brown,1,203.06,203.06,35,Sale,Credit,Retail
+2024-08-15,Kumasi,Ashanti,Children's Shoes,Kids Sneaker,43,Red,3,197.94,593.82,58,Sale,Card,Wholesale
+2024-08-16,Kumasi,Ashanti,Children's Shoes,Kids Sneaker,39,Brown,3,181.57,544.71,17,Sale,Cash,Wholesale
+2024-08-16,Accra Central,Greater Accra,Sandals,Ladies Slipper,37,White,5,95.21,476.05,75,Sale,Card,Retail
+2024-08-16,Cape Coast,Central,Children's Shoes,Kids Sneaker,37,Tan,5,142.81,714.05,67,Sale,Credit,Retail
+2024-08-16,Tema,Greater Accra,Sports Shoes,Running Shoe,43,Tan,0,435.0,0.0,17,Restock,Mobile Money,Retail
+2024-08-16,Cape Coast,Central,Sports Shoes,Training Shoe,45,Black,2,250.41,500.82,21,Sale,Card,Wholesale
+2024-08-16,Tarkwa,Western,Sandals,Children's Sandal,42,Brown,3,85.45,256.35,19,Sale,Mobile Money,Wholesale
+2024-08-17,Takoradi,Western,Sports Shoes,Training Shoe,41,White,3,311.98,935.94,14,Sale,Credit,Retail
+2024-08-17,Tarkwa,Western,Women's Shoes,Heeled Pump,39,Tan,2,241.69,483.38,33,Sale,Mobile Money,Wholesale
+2024-08-18,Kumasi,Ashanti,Children's Shoes,Kids Sneaker,39,White,2,80.11,160.22,6,Sale,Mobile Money,Retail
+2024-08-18,Cape Coast,Central,Sandals,Children's Sandal,45,White,7,66.23,463.61,53,Sale,Card,Wholesale
+2024-08-18,Tarkwa,Western,Sandals,Children's Sandal,41,Tan,6,178.16,1068.96,33,Sale,Mobile Money,Retail
+2024-08-18,Tema,Greater Accra,Children's Shoes,School Shoe,40,Grey,6,171.44,1028.64,80,Sale,Cash,Wholesale
+2024-08-18,Accra Central,Greater Accra,Children's Shoes,School Shoe,42,White,5,184.4,922.0,68,Sale,Mobile Money,Retail
+2024-08-20,Accra Central,Greater Accra,Women's Shoes,Heeled Pump,42,Navy,0,152.33,0.0,59,Restock,Mobile Money,Wholesale
+2024-08-20,Tema,Greater Accra,Children's Shoes,School Shoe,36,White,3,191.04,573.12,32,Sale,Cash,Retail
+2024-08-20,Tema,Greater Accra,Sports Shoes,Football Boot,36,Navy,1,282.66,282.66,20,Sale,Card,Wholesale
+2024-08-20,Takoradi,Western,Sports Shoes,Running Shoe,38,Tan,6,384.52,2307.12,66,Sale,Credit,Wholesale
+2024-08-20,Takoradi,Western,Sports Shoes,Training Shoe,36,White,1,438.66,438.66,6,Sale,Credit,Retail
+2024-08-20,Accra Central,Greater Accra,Men's Shoes,Sports Sneaker,40,Black,0,346.61,0.0,55,Return,Card,Wholesale
+2024-08-21,Takoradi,Western,Men's Shoes,Classic Oxford,41,Brown,3,424.99,1274.97,69,Sale,Cash,Retail
+2024-08-22,Accra Central,Greater Accra,Children's Shoes,Canvas Shoe,40,Grey,6,100.44,602.64,54,Sale,Cash,Wholesale
+2024-08-22,Takoradi,Western,Men's Shoes,Leather Boot,39,Tan,6,407.85,2447.1,38,Sale,Mobile Money,Wholesale
+2024-08-23,Kumasi,Ashanti,Men's Shoes,Leather Boot,45,Tan,1,366.2,366.2,54,Sale,Credit,Retail
+2024-08-23,Accra Central,Greater Accra,Sports Shoes,Training Shoe,41,Tan,6,300.62,1803.72,30,Sale,Card,Retail
+2024-08-24,Accra Central,Greater Accra,Women's Shoes,Flat Sandal,40,Brown,6,243.78,1462.68,63,Sale,Mobile Money,Retail
+2024-08-24,Tema,Greater Accra,Sandals,Ladies Slipper,45,White,0,107.1,0.0,60,Restock,Card,Wholesale
+2024-08-26,Tema,Greater Accra,Men's Shoes,Leather Boot,41,Black,5,444.88,2224.4,65,Sale,Mobile Money,Wholesale
+2024-08-26,Kumasi,Ashanti,Men's Shoes,Leather Boot,42,Grey,0,291.97,0.0,62,Restock,Credit,Retail
+2024-08-26,Takoradi,Western,Children's Shoes,Kids Sneaker,43,Black,0,88.9,0.0,48,Restock,Card,Retail
+2024-08-26,Tema,Greater Accra,Women's Shoes,Ballet Flat,41,Black,3,284.19,852.57,80,Sale,Mobile Money,Retail
+2024-08-28,Tema,Greater Accra,Children's Shoes,Canvas Shoe,45,Grey,3,159.15,477.45,16,Sale,Cash,Retail
+2024-08-29,Takoradi,Western,Sports Shoes,Running Shoe,38,Red,7,288.96,2022.72,46,Sale,Credit,Wholesale
+2024-08-29,Cape Coast,Central,Children's Shoes,Kids Sneaker,37,Brown,7,202.9,1420.3,79,Sale,Mobile Money,Retail
+2024-08-30,Takoradi,Western,Women's Shoes,Heeled Pump,45,Grey,2,379.28,758.56,38,Sale,Card,Retail
+2024-08-30,Takoradi,Western,Men's Shoes,Leather Boot,45,Brown,3,371.46,1114.38,20,Sale,Credit,Retail
+2024-08-30,Kumasi,Ashanti,Men's Shoes,Sports Sneaker,36,Red,5,229.74,1148.7,36,Sale,Card,Retail
+2024-08-31,Tarkwa,Western,Women's Shoes,Flat Sandal,42,Grey,1,285.46,285.46,52,Sale,Credit,Retail
+2024-08-31,Tema,Greater Accra,Women's Shoes,Ankle Boot,45,Grey,0,194.98,0.0,71,Restock,Cash,Retail
+2024-08-31,Kumasi,Ashanti,Women's Shoes,Ankle Boot,41,Tan,5,226.1,1130.5,14,Sale,Cash,Retail
+2024-09-01,Takoradi,Western,Women's Shoes,Flat Sandal,41,Grey,5,283.75,1418.75,13,Sale,Cash,Retail
+2024-09-02,Tema,Greater Accra,Sandals,Ladies Slipper,39,Tan,4,156.53,626.12,42,Sale,Card,Wholesale
+2024-09-03,Cape Coast,Central,Sports Shoes,Training Shoe,37,Red,7,228.72,1601.04,47,Sale,Card,Retail
+2024-09-03,Cape Coast,Central,Women's Shoes,Ballet Flat,41,Black,3,332.28,996.84,41,Sale,Credit,Retail
+2024-09-05,Cape Coast,Central,Women's Shoes,Ankle Boot,42,Black,0,178.89,0.0,46,Return,Credit,Wholesale
+2024-09-05,Cape Coast,Central,Men's Shoes,Sports Sneaker,37,Red,5,207.31,1036.55,64,Sale,Mobile Money,Retail
+2024-09-06,Tarkwa,Western,Sandals,Ladies Slipper,38,Red,2,122.78,245.56,31,Sale,Card,Wholesale
+2024-09-06,Cape Coast,Central,Sports Shoes,Football Boot,37,White,4,420.81,1683.24,34,Sale,Cash,Wholesale
+2024-09-07,Accra Central,Greater Accra,Sports Shoes,Running Shoe,42,Tan,1,267.34,267.34,36,Sale,Credit,Retail
+2024-09-07,Accra Central,Greater Accra,Children's Shoes,Kids Sneaker,37,Tan,3,173.37,520.11,73,Sale,Cash,Retail
+2024-09-07,Tema,Greater Accra,Sandals,Children's Sandal,40,Red,2,125.0,250.0,25,Sale,Credit,Wholesale
+2024-09-08,Tarkwa,Western,Children's Shoes,Kids Sneaker,41,Navy,0,199.2,0.0,16,Return,Mobile Money,Retail
+2024-09-08,Tema,Greater Accra,Men's Shoes,Classic Oxford,44,Brown,2,196.88,393.76,76,Sale,Credit,Retail
+2024-09-09,Kumasi,Ashanti,Sports Shoes,Training Shoe,39,Brown,6,373.64,2241.84,66,Sale,Mobile Money,Retail
+2024-09-09,Tema,Greater Accra,Sandals,Men's Sandal,39,Navy,4,104.52,418.08,64,Sale,Cash,Retail
+2024-09-09,Cape Coast,Central,Sandals,Children's Sandal,42,Tan,5,103.14,515.7,70,Sale,Card,Wholesale
+2024-09-09,Accra Central,Greater Accra,Sports Shoes,Running Shoe,41,Tan,6,299.41,1796.46,8,Sale,Cash,Retail
+2024-09-09,Tarkwa,Western,Children's Shoes,Kids Sneaker,45,Brown,3,144.5,433.5,75,Sale,Mobile Money,Retail
+2024-09-09,Tema,Greater Accra,Sandals,Children's Sandal,42,Grey,5,87.02,435.1,16,Sale,Mobile Money,Retail
+2024-09-10,Takoradi,Western,Sports Shoes,Running Shoe,39,Red,7,342.9,2400.3,12,Sale,Card,Retail
+2024-09-10,Accra Central,Greater Accra,Men's Shoes,Leather Boot,45,Navy,0,347.33,0.0,30,Restock,Card,Retail
+2024-09-10,Tema,Greater Accra,Sports Shoes,Training Shoe,38,Brown,6,270.2,1621.2,57,Sale,Card,Retail
+2024-09-10,Kumasi,Ashanti,Children's Shoes,School Shoe,38,Navy,7,211.16,1478.12,61,Sale,Mobile Money,Retail
+2024-09-10,Kumasi,Ashanti,Children's Shoes,Kids Sneaker,41,Navy,1,174.13,174.13,24,Sale,Credit,Retail
+2024-09-12,Accra Central,Greater Accra,Women's Shoes,Flat Sandal,37,Navy,0,252.09,0.0,22,Adjustment,Cash,Retail
+2024-09-12,Takoradi,Western,Children's Shoes,Canvas Shoe,42,Grey,1,123.43,123.43,67,Sale,Cash,Retail
+2024-09-12,Accra Central,Greater Accra,Sports Shoes,Running Shoe,41,Grey,4,347.92,1391.68,54,Sale,Card,Retail
+2024-09-13,Accra Central,Greater Accra,Sandals,Ladies Slipper,42,White,6,121.02,726.12,17,Sale,Card,Wholesale
+2024-09-14,Tarkwa,Western,Women's Shoes,Ballet Flat,45,Navy,0,184.66,0.0,40,Adjustment,Mobile Money,Retail
+2024-09-15,Accra Central,Greater Accra,Men's Shoes,Classic Oxford,38,Brown,1,336.21,336.21,44,Sale,Card,Retail
+2024-09-15,Tarkwa,Western,Men's Shoes,Sports Sneaker,39,Navy,0,410.11,0.0,45,Adjustment,Card,Retail
+2024-09-15,Accra Central,Greater Accra,Sandals,Children's Sandal,40,Brown,7,101.33,709.31,77,Sale,Cash,Wholesale
+2024-09-15,Accra Central,Greater Accra,Sandals,Men's Sandal,43,Tan,1,72.74,72.74,5,Sale,Mobile Money,Wholesale
+2024-09-17,Cape Coast,Central,Women's Shoes,Ballet Flat,41,Navy,7,186.36,1304.52,46,Sale,Credit,Retail
+2024-09-17,Tarkwa,Western,Sandals,Men's Sandal,45,Grey,0,174.36,0.0,8,Return,Credit,Wholesale
+2024-09-17,Cape Coast,Central,Sandals,Ladies Slipper,38,White,4,95.71,382.84,54,Sale,Mobile Money,Retail
+2024-09-17,Kumasi,Ashanti,Men's Shoes,Casual Loafer,37,Navy,1,240.55,240.55,10,Sale,Card,Retail
+2024-09-19,Accra Central,Greater Accra,Sandals,Children's Sandal,36,Navy,3,177.12,531.36,57,Sale,Card,Wholesale
+2024-09-20,Tema,Greater Accra,Men's Shoes,Classic Oxford,43,Navy,7,299.01,2093.07,41,Sale,Credit,Retail
+2024-09-20,Cape Coast,Central,Men's Shoes,Sports Sneaker,45,Navy,7,315.34,2207.38,56,Sale,Cash,Retail
+2024-09-20,Tema,Greater Accra,Children's Shoes,Canvas Shoe,36,Tan,3,176.12,528.36,8,Sale,Card,Retail
+2024-09-21,Accra Central,Greater Accra,Sports Shoes,Running Shoe,41,Grey,1,327.95,327.95,52,Sale,Card,Retail
+2024-09-22,Takoradi,Western,Sports Shoes,Training Shoe,43,Red,1,210.52,210.52,72,Sale,Cash,Retail
+2024-09-23,Kumasi,Ashanti,Sports Shoes,Football Boot,37,Grey,2,377.43,754.86,40,Sale,Mobile Money,Retail
+2024-09-24,Cape Coast,Central,Women's Shoes,Heeled Pump,38,Red,4,246.36,985.44,80,Sale,Card,Wholesale
+2024-09-24,Accra Central,Greater Accra,Children's Shoes,Kids Sneaker,37,Grey,5,167.75,838.75,43,Sale,Credit,Retail
+2024-09-24,Tema,Greater Accra,Women's Shoes,Ballet Flat,38,Navy,1,284.02,284.02,62,Sale,Cash,Retail
+2024-09-24,Tema,Greater Accra,Sports Shoes,Training Shoe,41,Tan,7,315.74,2210.18,82,Sale,Mobile Money,Retail
+2024-09-24,Tarkwa,Western,Men's Shoes,Casual Loafer,36,White,1,386.0,386.0,79,Sale,Cash,Wholesale
+2024-09-25,Cape Coast,Central,Sandals,Ladies Slipper,38,Brown,6,93.38,560.28,60,Sale,Cash,Retail
+2024-09-26,Tarkwa,Western,Men's Shoes,Leather Boot,36,Navy,3,444.93,1334.79,20,Sale,Card,Retail
+2024-09-26,Kumasi,Ashanti,Sports Shoes,Football Boot,43,Red,5,319.19,1595.95,27,Sale,Mobile Money,Retail
+2024-09-27,Tarkwa,Western,Sports Shoes,Running Shoe,44,Tan,6,356.29,2137.74,26,Sale,Card,Wholesale
+2024-09-27,Kumasi,Ashanti,Sandals,Men's Sandal,44,Grey,1,160.44,160.44,57,Sale,Card,Retail
+2024-09-28,Accra Central,Greater Accra,Sports Shoes,Football Boot,42,Red,3,383.84,1151.52,39,Sale,Card,Retail
+2024-09-28,Accra Central,Greater Accra,Children's Shoes,Canvas Shoe,43,Red,7,105.08,735.56,23,Sale,Mobile Money,Retail
+2024-09-29,Tarkwa,Western,Women's Shoes,Ballet Flat,45,White,6,152.89,917.34,52,Sale,Card,Retail
+2024-09-29,Cape Coast,Central,Sandals,Children's Sandal,36,White,0,122.63,0.0,53,Adjustment,Card,Retail
+2024-09-29,Tema,Greater Accra,Children's Shoes,School Shoe,37,Red,6,139.84,839.04,44,Sale,Credit,Retail
+2024-09-30,Tarkwa,Western,Women's Shoes,Heeled Pump,36,Brown,3,232.57,697.71,6,Sale,Cash,Wholesale
+2024-09-30,Takoradi,Western,Sports Shoes,Running Shoe,42,Grey,5,333.13,1665.65,51,Sale,Card,Wholesale
+2024-09-30,Cape Coast,Central,Children's Shoes,Kids Sneaker,43,Red,0,201.1,0.0,24,Adjustment,Cash,Retail
+2024-10-01,Cape Coast,Central,Women's Shoes,Flat Sandal,44,White,6,283.35,1700.1,70,Sale,Card,Retail
+2024-10-03,Takoradi,Western,Sandals,Ladies Slipper,40,Brown,0,113.11,0.0,15,Restock,Mobile Money,Retail
+2024-10-03,Kumasi,Ashanti,Sandals,Children's Sandal,39,Tan,5,124.89,624.45,53,Sale,Card,Retail
+2024-10-03,Accra Central,Greater Accra,Sandals,Children's Sandal,42,Black,2,97.44,194.88,19,Sale,Credit,Wholesale
+2024-10-03,Tema,Greater Accra,Men's Shoes,Classic Oxford,42,Red,7,379.46,2656.22,67,Sale,Mobile Money,Retail
+2024-10-03,Cape Coast,Central,Women's Shoes,Ballet Flat,39,Tan,7,290.82,2035.74,11,Sale,Credit,Retail
+2024-10-04,Tema,Greater Accra,Children's Shoes,Kids Sneaker,39,Tan,1,103.67,103.67,19,Sale,Mobile Money,Retail
+2024-10-05,Cape Coast,Central,Sports Shoes,Training Shoe,44,Red,3,434.73,1304.19,57,Sale,Mobile Money,Wholesale
+2024-10-06,Tarkwa,Western,Sports Shoes,Training Shoe,44,White,0,263.21,0.0,51,Adjustment,Mobile Money,Retail
+2024-10-06,Kumasi,Ashanti,Sports Shoes,Training Shoe,40,Black,0,397.85,0.0,38,Return,Mobile Money,Wholesale
+2024-10-06,Takoradi,Western,Sandals,Men's Sandal,41,Navy,1,143.67,143.67,84,Sale,Credit,Retail
+2024-10-07,Tarkwa,Western,Sandals,Men's Sandal,38,Red,3,80.88,242.64,78,Sale,Card,Retail
+2024-10-07,Cape Coast,Central,Children's Shoes,Kids Sneaker,44,Black,3,146.63,439.89,32,Sale,Card,Wholesale
+2024-10-08,Tema,Greater Accra,Children's Shoes,School Shoe,37,Tan,2,183.16,366.32,62,Sale,Mobile Money,Wholesale
+2024-10-08,Takoradi,Western,Women's Shoes,Ballet Flat,37,Tan,0,260.77,0.0,23,Restock,Credit,Retail
+2024-10-09,Cape Coast,Central,Men's Shoes,Classic Oxford,39,White,0,438.55,0.0,77,Restock,Mobile Money,Wholesale
+2024-10-09,Takoradi,Western,Men's Shoes,Classic Oxford,36,Black,4,282.98,1131.92,49,Sale,Mobile Money,Wholesale
+2024-10-09,Tema,Greater Accra,Sports Shoes,Running Shoe,44,Black,1,340.63,340.63,18,Sale,Card,Retail
+2024-10-10,Takoradi,Western,Children's Shoes,School Shoe,37,White,1,110.15,110.15,79,Sale,Mobile Money,Wholesale
+2024-10-11,Tema,Greater Accra,Women's Shoes,Flat Sandal,42,Grey,7,198.14,1386.98,41,Sale,Card,Retail
+2024-10-11,Tarkwa,Western,Men's Shoes,Classic Oxford,45,Navy,2,332.01,664.02,67,Sale,Card,Wholesale
+2024-10-11,Takoradi,Western,Children's Shoes,Kids Sneaker,42,White,1,118.9,118.9,24,Sale,Credit,Retail
+2024-10-11,Cape Coast,Central,Men's Shoes,Classic Oxford,38,Grey,0,411.44,0.0,39,Return,Credit,Retail
+2024-10-11,Kumasi,Ashanti,Women's Shoes,Ankle Boot,38,White,0,175.96,0.0,46,Return,Mobile Money,Retail
+2024-10-12,Cape Coast,Central,Men's Shoes,Classic Oxford,42,Red,1,389.51,389.51,73,Sale,Card,Wholesale
+2024-10-13,Tarkwa,Western,Sports Shoes,Football Boot,40,Red,0,384.83,0.0,17,Return,Cash,Wholesale
+2024-10-14,Tema,Greater Accra,Sports Shoes,Training Shoe,37,Brown,1,424.4,424.4,58,Sale,Mobile Money,Retail
+2024-10-14,Takoradi,Western,Children's Shoes,Canvas Shoe,43,Navy,1,81.36,81.36,67,Sale,Mobile Money,Wholesale
+2024-10-14,Cape Coast,Central,Men's Shoes,Leather Boot,45,Red,3,386.31,1158.93,50,Sale,Card,Retail
+2024-10-15,Tema,Greater Accra,Women's Shoes,Ballet Flat,40,Brown,0,264.53,0.0,81,Restock,Cash,Retail
+2024-10-15,Tarkwa,Western,Children's Shoes,School Shoe,40,White,3,158.77,476.31,18,Sale,Cash,Retail
+2024-10-15,Tema,Greater Accra,Children's Shoes,Canvas Shoe,37,Grey,6,114.51,687.06,26,Sale,Card,Retail
+2024-10-15,Tarkwa,Western,Children's Shoes,Kids Sneaker,41,Grey,1,83.41,83.41,23,Sale,Cash,Retail
+2024-10-15,Takoradi,Western,Sports Shoes,Running Shoe,37,White,1,213.12,213.12,44,Sale,Cash,Retail
+2024-10-15,Tarkwa,Western,Women's Shoes,Ballet Flat,40,Red,2,201.35,402.7,70,Sale,Cash,Retail
+2024-10-17,Tema,Greater Accra,Men's Shoes,Classic Oxford,36,Navy,7,437.22,3060.54,56,Sale,Cash,Retail
+2024-10-18,Accra Central,Greater Accra,Sandals,Men's Sandal,43,Navy,7,120.16,841.12,73,Sale,Credit,Retail
+2024-10-18,Tarkwa,Western,Men's Shoes,Leather Boot,38,Red,0,274.87,0.0,74,Return,Credit,Retail
+2024-10-19,Cape Coast,Central,Sandals,Ladies Slipper,39,Red,7,109.18,764.26,12,Sale,Cash,Retail
+2024-10-20,Tema,Greater Accra,Sports Shoes,Football Boot,42,Brown,0,343.05,0.0,47,Return,Mobile Money,Retail
+2024-10-21,Cape Coast,Central,Men's Shoes,Classic Oxford,43,Brown,1,402.65,402.65,5,Sale,Cash,Wholesale
+2024-10-22,Tema,Greater Accra,Children's Shoes,Kids Sneaker,43,Brown,0,201.53,0.0,71,Restock,Credit,Wholesale
+2024-10-22,Accra Central,Greater Accra,Sandals,Ladies Slipper,42,White,0,94.15,0.0,81,Return,Credit,Retail
+2024-10-22,Takoradi,Western,Sports Shoes,Football Boot,45,Tan,5,365.34,1826.7,74,Sale,Credit,Wholesale
+2024-10-22,Tema,Greater Accra,Men's Shoes,Leather Boot,38,Tan,6,387.42,2324.52,72,Sale,Card,Retail
+2024-10-22,Accra Central,Greater Accra,Sports Shoes,Football Boot,42,Navy,4,495.12,1980.48,65,Sale,Mobile Money,Retail
+2024-10-22,Cape Coast,Central,Children's Shoes,School Shoe,39,Black,5,174.05,870.25,26,Sale,Cash,Wholesale
+2024-10-23,Accra Central,Greater Accra,Children's Shoes,Canvas Shoe,37,Grey,3,107.55,322.65,52,Sale,Card,Retail
+2024-10-24,Tarkwa,Western,Men's Shoes,Sports Sneaker,41,Navy,0,182.68,0.0,29,Adjustment,Credit,Retail
+2024-10-26,Takoradi,Western,Sports Shoes,Running Shoe,38,White,2,442.32,884.64,28,Sale,Credit,Retail
+2024-10-27,Takoradi,Western,Children's Shoes,Canvas Shoe,44,Grey,7,115.99,811.93,23,Sale,Mobile Money,Retail
+2024-10-28,Accra Central,Greater Accra,Men's Shoes,Classic Oxford,37,Brown,6,318.61,1911.66,83,Sale,Cash,Retail
+2024-10-28,Kumasi,Ashanti,Women's Shoes,Heeled Pump,39,Black,3,296.44,889.32,76,Sale,Card,Retail
+2024-10-28,Tema,Greater Accra,Sandals,Men's Sandal,45,Tan,0,126.78,0.0,55,Return,Mobile Money,Wholesale
+2024-10-28,Takoradi,Western,Sports Shoes,Training Shoe,45,Brown,5,214.39,1071.95,82,Sale,Cash,Retail
+2024-10-29,Kumasi,Ashanti,Children's Shoes,Kids Sneaker,42,Black,5,104.47,522.35,71,Sale,Mobile Money,Retail
+2024-10-29,Tema,Greater Accra,Women's Shoes,Ankle Boot,44,Red,3,349.63,1048.89,33,Sale,Mobile Money,Retail
+2024-10-30,Cape Coast,Central,Women's Shoes,Ballet Flat,44,Red,4,330.59,1322.36,54,Sale,Credit,Retail
+2024-10-31,Tema,Greater Accra,Sandals,Children's Sandal,44,Navy,0,69.04,0.0,38,Restock,Card,Wholesale
+2024-10-31,Tema,Greater Accra,Men's Shoes,Sports Sneaker,45,Brown,7,436.1,3052.7,50,Sale,Card,Retail
+2024-10-31,Tema,Greater Accra,Sandals,Children's Sandal,44,Grey,4,142.06,568.24,47,Sale,Mobile Money,Retail
+2024-11-01,Kumasi,Ashanti,Children's Shoes,School Shoe,37,Red,6,160.61,963.66,50,Sale,Credit,Retail
+2024-11-01,Tema,Greater Accra,Women's Shoes,Ballet Flat,40,Grey,5,282.99,1414.95,26,Sale,Credit,Retail
+2024-11-03,Takoradi,Western,Sandals,Ladies Slipper,39,Navy,0,95.63,0.0,43,Adjustment,Credit,Retail
+2024-11-04,Tarkwa,Western,Women's Shoes,Ankle Boot,38,Red,3,230.48,691.44,29,Sale,Card,Wholesale
+2024-11-04,Accra Central,Greater Accra,Sandals,Men's Sandal,41,Black,0,79.3,0.0,6,Restock,Card,Wholesale
+2024-11-05,Accra Central,Greater Accra,Women's Shoes,Flat Sandal,44,Brown,0,205.79,0.0,82,Adjustment,Credit,Retail
+2024-11-05,Kumasi,Ashanti,Women's Shoes,Heeled Pump,41,Tan,7,313.99,2197.93,34,Sale,Mobile Money,Wholesale
+2024-11-06,Tema,Greater Accra,Women's Shoes,Ballet Flat,41,Tan,0,295.77,0.0,34,Return,Card,Wholesale
+2024-11-07,Accra Central,Greater Accra,Men's Shoes,Classic Oxford,45,White,6,262.54,1575.24,74,Sale,Mobile Money,Wholesale
+2024-11-07,Kumasi,Ashanti,Men's Shoes,Casual Loafer,36,Grey,6,365.73,2194.38,30,Sale,Card,Retail
+2024-11-08,Kumasi,Ashanti,Sports Shoes,Training Shoe,38,Red,0,226.33,0.0,9,Adjustment,Credit,Retail
+2024-11-08,Cape Coast,Central,Men's Shoes,Sports Sneaker,45,Black,0,444.88,0.0,12,Restock,Credit,Retail
+2024-11-09,Kumasi,Ashanti,Sandals,Ladies Slipper,41,Brown,0,138.39,0.0,60,Adjustment,Card,Retail
+2024-11-09,Kumasi,Ashanti,Sandals,Men's Sandal,40,Tan,7,178.62,1250.34,45,Sale,Cash,Wholesale
+2024-11-10,Tarkwa,Western,Sandals,Children's Sandal,40,Navy,4,127.91,511.64,15,Sale,Cash,Retail
+2024-11-11,Takoradi,Western,Children's Shoes,Kids Sneaker,41,Red,4,118.29,473.16,42,Sale,Card,Retail
+2024-11-11,Accra Central,Greater Accra,Men's Shoes,Leather Boot,40,Grey,0,335.84,0.0,70,Adjustment,Mobile Money,Retail
+2024-11-13,Tema,Greater Accra,Sports Shoes,Running Shoe,43,Black,2,384.23,768.46,20,Sale,Card,Retail
+2024-11-13,Takoradi,Western,Sandals,Men's Sandal,39,Grey,0,116.49,0.0,28,Restock,Mobile Money,Wholesale
+2024-11-13,Accra Central,Greater Accra,Men's Shoes,Leather Boot,44,Tan,0,376.8,0.0,55,Restock,Cash,Retail
+2024-11-13,Tarkwa,Western,Children's Shoes,School Shoe,42,Red,6,83.46,500.76,51,Sale,Cash,Retail
+2024-11-13,Accra Central,Greater Accra,Sports Shoes,Football Boot,39,Red,4,353.71,1414.84,8,Sale,Cash,Wholesale
+2024-11-14,Kumasi,Ashanti,Women's Shoes,Ankle Boot,44,Red,7,264.25,1849.75,56,Sale,Card,Retail
+2024-11-14,Tema,Greater Accra,Children's Shoes,Canvas Shoe,40,Tan,4,85.91,343.64,84,Sale,Mobile Money,Retail
+2024-11-15,Tarkwa,Western,Men's Shoes,Classic Oxford,36,Grey,0,414.49,0.0,59,Restock,Card,Retail
+2024-11-15,Kumasi,Ashanti,Sandals,Children's Sandal,41,Black,6,92.89,557.34,13,Sale,Cash,Retail
+2024-11-15,Tarkwa,Western,Men's Shoes,Sports Sneaker,43,Red,0,445.42,0.0,17,Restock,Card,Retail
+2024-11-16,Accra Central,Greater Accra,Children's Shoes,Kids Sneaker,41,Red,5,148.51,742.55,79,Sale,Cash,Retail
+2024-11-16,Takoradi,Western,Sandals,Children's Sandal,40,Navy,6,176.77,1060.62,44,Sale,Credit,Retail
+2024-11-17,Kumasi,Ashanti,Women's Shoes,Flat Sandal,45,White,4,270.0,1080.0,27,Sale,Card,Retail
+2024-11-18,Tarkwa,Western,Men's Shoes,Leather Boot,38,Tan,5,382.02,1910.1,5,Sale,Credit,Retail
+2024-11-18,Tema,Greater Accra,Sports Shoes,Football Boot,40,Navy,2,211.69,423.38,52,Sale,Credit,Retail
+2024-11-18,Accra Central,Greater Accra,Children's Shoes,Canvas Shoe,37,White,3,127.53,382.59,15,Sale,Card,Wholesale
+2024-11-19,Takoradi,Western,Women's Shoes,Heeled Pump,44,Red,4,233.14,932.56,13,Sale,Cash,Retail
+2024-11-19,Cape Coast,Central,Women's Shoes,Ballet Flat,43,White,7,193.79,1356.53,42,Sale,Cash,Wholesale
+2024-11-19,Cape Coast,Central,Sports Shoes,Football Boot,45,Black,7,266.34,1864.38,81,Sale,Cash,Wholesale
+2024-11-20,Takoradi,Western,Sports Shoes,Training Shoe,41,Black,3,454.83,1364.49,31,Sale,Mobile Money,Retail
+2024-11-21,Takoradi,Western,Sandals,Ladies Slipper,36,Navy,5,109.15,545.75,72,Sale,Card,Retail
+2024-11-21,Tarkwa,Western,Women's Shoes,Flat Sandal,39,Tan,2,166.51,333.02,18,Sale,Mobile Money,Wholesale
+2024-11-22,Takoradi,Western,Sports Shoes,Football Boot,41,Grey,0,234.9,0.0,26,Adjustment,Cash,Retail
+2024-11-22,Tema,Greater Accra,Women's Shoes,Ballet Flat,43,Brown,0,320.56,0.0,22,Return,Credit,Retail
+2024-11-23,Tema,Greater Accra,Women's Shoes,Ballet Flat,36,Red,4,207.87,831.48,26,Sale,Card,Retail
+2024-11-23,Tarkwa,Western,Sandals,Ladies Slipper,40,Black,4,64.86,259.44,84,Sale,Credit,Retail
+2024-11-24,Kumasi,Ashanti,Women's Shoes,Heeled Pump,45,Tan,7,312.38,2186.66,32,Sale,Credit,Retail
+2024-11-24,Cape Coast,Central,Sandals,Ladies Slipper,45,Red,4,69.78,279.12,18,Sale,Mobile Money,Retail
+2024-11-25,Accra Central,Greater Accra,Sandals,Men's Sandal,36,Tan,4,69.56,278.24,37,Sale,Credit,Retail
+2024-11-25,Cape Coast,Central,Women's Shoes,Flat Sandal,38,Tan,0,176.14,0.0,67,Restock,Cash,Wholesale
+2024-11-25,Accra Central,Greater Accra,Children's Shoes,Canvas Shoe,37,Red,3,176.37,529.11,21,Sale,Mobile Money,Retail
+2024-11-25,Tema,Greater Accra,Women's Shoes,Heeled Pump,44,Brown,5,341.11,1705.55,40,Sale,Mobile Money,Retail
+2024-11-25,Cape Coast,Central,Sandals,Children's Sandal,44,Grey,6,61.84,371.04,46,Sale,Mobile Money,Wholesale
+2024-11-26,Cape Coast,Central,Sandals,Men's Sandal,40,Brown,4,158.31,633.24,34,Sale,Cash,Retail
+2024-11-26,Kumasi,Ashanti,Children's Shoes,Kids Sneaker,42,Brown,0,102.25,0.0,33,Return,Card,Retail
+2024-11-27,Takoradi,Western,Women's Shoes,Flat Sandal,41,Red,6,315.99,1895.94,26,Sale,Cash,Retail
+2024-11-29,Tarkwa,Western,Sports Shoes,Football Boot,39,White,2,400.88,801.76,59,Sale,Card,Retail
+2024-11-30,Tema,Greater Accra,Sandals,Children's Sandal,41,Navy,2,142.13,284.26,36,Sale,Cash,Retail
+2024-11-30,Kumasi,Ashanti,Men's Shoes,Casual Loafer,39,Tan,7,409.01,2863.07,60,Sale,Card,Retail
+2024-11-30,Kumasi,Ashanti,Men's Shoes,Sports Sneaker,43,Red,0,223.58,0.0,77,Adjustment,Credit,Retail
+2024-12-01,Tema,Greater Accra,Sandals,Men's Sandal,39,Grey,5,62.96,314.8,14,Sale,Cash,Retail
+2024-12-02,Cape Coast,Central,Sports Shoes,Running Shoe,39,Red,7,207.75,1454.25,75,Sale,Mobile Money,Wholesale
+2024-12-03,Tema,Greater Accra,Children's Shoes,Kids Sneaker,37,White,0,128.45,0.0,14,Restock,Cash,Retail
+2024-12-03,Accra Central,Greater Accra,Children's Shoes,Kids Sneaker,43,Tan,5,110.2,551.0,49,Sale,Cash,Retail
+2024-12-03,Takoradi,Western,Women's Shoes,Ballet Flat,37,Red,1,269.05,269.05,15,Sale,Mobile Money,Retail
+2024-12-04,Tema,Greater Accra,Women's Shoes,Heeled Pump,44,Black,3,361.06,1083.18,62,Sale,Mobile Money,Wholesale
+2024-12-04,Accra Central,Greater Accra,Sports Shoes,Football Boot,36,Navy,4,216.17,864.68,17,Sale,Card,Retail
+2024-12-05,Tarkwa,Western,Sports Shoes,Football Boot,44,Navy,6,475.46,2852.76,64,Sale,Card,Wholesale
+2024-12-05,Accra Central,Greater Accra,Men's Shoes,Leather Boot,41,Brown,6,338.51,2031.06,82,Sale,Mobile Money,Retail
+2024-12-05,Takoradi,Western,Men's Shoes,Leather Boot,44,Red,1,354.68,354.68,73,Sale,Credit,Wholesale
+2024-12-06,Cape Coast,Central,Sports Shoes,Running Shoe,41,Red,6,308.32,1849.92,20,Sale,Mobile Money,Retail
+2024-12-07,Tarkwa,Western,Children's Shoes,Kids Sneaker,45,Brown,2,132.95,265.9,75,Sale,Cash,Retail
+2024-12-07,Tarkwa,Western,Sandals,Men's Sandal,45,Brown,4,66.42,265.68,81,Sale,Credit,Retail
+2024-12-07,Accra Central,Greater Accra,Women's Shoes,Heeled Pump,41,Tan,5,203.42,1017.1,57,Sale,Credit,Retail
+2024-12-07,Tarkwa,Western,Sports Shoes,Training Shoe,43,Grey,1,497.46,497.46,10,Sale,Credit,Wholesale
+2024-12-07,Takoradi,Western,Sandals,Men's Sandal,43,White,2,144.59,289.18,26,Sale,Cash,Retail
+2024-12-09,Takoradi,Western,Men's Shoes,Casual Loafer,36,Grey,2,267.81,535.62,47,Sale,Mobile Money,Retail
+2024-12-09,Accra Central,Greater Accra,Sports Shoes,Training Shoe,37,Tan,6,492.41,2954.46,36,Sale,Cash,Wholesale
+2024-12-09,Cape Coast,Central,Women's Shoes,Ballet Flat,38,Black,5,291.24,1456.2,42,Sale,Mobile Money,Wholesale
+2024-12-09,Takoradi,Western,Men's Shoes,Casual Loafer,42,Red,3,425.4,1276.2,75,Sale,Card,Retail
+2024-12-11,Kumasi,Ashanti,Sports Shoes,Running Shoe,42,Navy,0,454.12,0.0,36,Return,Cash,Retail
+2024-12-11,Takoradi,Western,Children's Shoes,Kids Sneaker,40,Black,4,200.84,803.36,66,Sale,Credit,Retail
+2024-12-11,Accra Central,Greater Accra,Sports Shoes,Football Boot,36,Navy,7,382.95,2680.65,25,Sale,Cash,Retail
+2024-12-11,Accra Central,Greater Accra,Children's Shoes,Kids Sneaker,39,Navy,3,207.01,621.03,17,Sale,Mobile Money,Retail
+2024-12-11,Tarkwa,Western,Women's Shoes,Flat Sandal,36,Brown,7,173.45,1214.15,60,Sale,Credit,Retail
+2024-12-11,Cape Coast,Central,Sandals,Children's Sandal,43,Red,2,67.21,134.42,16,Sale,Card,Wholesale
+2024-12-11,Cape Coast,Central,Women's Shoes,Flat Sandal,43,White,4,218.64,874.56,61,Sale,Credit,Retail
+2024-12-12,Cape Coast,Central,Sports Shoes,Football Boot,41,Grey,0,440.92,0.0,46,Restock,Card,Retail
+2024-12-13,Takoradi,Western,Men's Shoes,Classic Oxford,37,Navy,2,301.25,602.5,22,Sale,Credit,Retail
+2024-12-13,Tarkwa,Western,Men's Shoes,Classic Oxford,38,Black,2,214.09,428.18,70,Sale,Credit,Retail
+2024-12-13,Cape Coast,Central,Children's Shoes,Canvas Shoe,42,Black,6,82.59,495.54,45,Sale,Card,Retail
+2024-12-13,Cape Coast,Central,Women's Shoes,Ankle Boot,39,Brown,0,180.22,0.0,13,Restock,Mobile Money,Retail
+2024-12-14,Kumasi,Ashanti,Men's Shoes,Sports Sneaker,36,Red,1,207.74,207.74,30,Sale,Mobile Money,Wholesale
+2024-12-14,Tema,Greater Accra,Sports Shoes,Training Shoe,44,Tan,4,409.65,1638.6,14,Sale,Cash,Wholesale
+2024-12-14,Tarkwa,Western,Children's Shoes,School Shoe,41,Brown,7,194.93,1364.51,40,Sale,Credit,Retail
+2024-12-14,Accra Central,Greater Accra,Sports Shoes,Football Boot,38,Brown,7,321.37,2249.59,7,Sale,Mobile Money,Retail
+2024-12-14,Accra Central,Greater Accra,Men's Shoes,Leather Boot,40,Red,6,251.08,1506.48,16,Sale,Mobile Money,Retail
+2024-12-15,Kumasi,Ashanti,Sandals,Children's Sandal,36,Tan,0,141.42,0.0,32,Restock,Card,Retail
+2024-12-15,Takoradi,Western,Children's Shoes,Kids Sneaker,36,Navy,2,181.68,363.36,15,Sale,Card,Retail
+2024-12-15,Cape Coast,Central,Women's Shoes,Ankle Boot,44,Brown,1,359.66,359.66,69,Sale,Card,Retail
+2024-12-15,Cape Coast,Central,Men's Shoes,Leather Boot,37,Tan,1,324.88,324.88,50,Sale,Cash,Retail
+2024-12-19,Cape Coast,Central,Women's Shoes,Ankle Boot,40,Brown,1,258.3,258.3,67,Sale,Mobile Money,Wholesale
+2024-12-21,Takoradi,Western,Children's Shoes,Kids Sneaker,36,Brown,7,89.68,627.76,45,Sale,Mobile Money,Wholesale
+2024-12-21,Kumasi,Ashanti,Women's Shoes,Ballet Flat,42,Black,5,217.99,1089.95,62,Sale,Card,Retail
+2024-12-22,Takoradi,Western,Sandals,Men's Sandal,39,Black,7,72.81,509.67,65,Sale,Card,Retail
+2024-12-22,Tema,Greater Accra,Sandals,Children's Sandal,40,Tan,5,140.55,702.75,48,Sale,Mobile Money,Retail
+2024-12-23,Kumasi,Ashanti,Men's Shoes,Leather Boot,39,Grey,1,195.04,195.04,73,Sale,Credit,Retail
+2024-12-24,Kumasi,Ashanti,Sandals,Children's Sandal,40,Navy,5,100.17,500.85,39,Sale,Credit,Retail
+2024-12-24,Tema,Greater Accra,Men's Shoes,Sports Sneaker,38,White,2,448.77,897.54,25,Sale,Credit,Retail
+2024-12-24,Cape Coast,Central,Men's Shoes,Sports Sneaker,40,Black,5,418.06,2090.3,84,Sale,Card,Retail
+2024-12-25,Tarkwa,Western,Women's Shoes,Flat Sandal,38,Brown,3,265.07,795.21,45,Sale,Mobile Money,Retail
+2024-12-25,Cape Coast,Central,Women's Shoes,Ballet Flat,43,Grey,1,182.04,182.04,7,Sale,Card,Retail
+2024-12-26,Accra Central,Greater Accra,Children's Shoes,Canvas Shoe,44,Red,3,170.0,510.0,20,Sale,Card,Retail
+2024-12-26,Takoradi,Western,Sports Shoes,Training Shoe,40,Black,0,270.98,0.0,63,Restock,Credit,Retail
+2024-12-28,Cape Coast,Central,Sports Shoes,Training Shoe,45,Red,4,452.54,1810.16,78,Sale,Credit,Wholesale
+2024-12-28,Takoradi,Western,Children's Shoes,Canvas Shoe,41,White,3,92.67,278.01,19,Sale,Credit,Wholesale
+2024-12-28,Accra Central,Greater Accra,Women's Shoes,Heeled Pump,45,Red,4,304.33,1217.32,14,Sale,Credit,Wholesale
+2024-12-29,Accra Central,Greater Accra,Women's Shoes,Flat Sandal,40,Black,4,363.01,1452.04,64,Sale,Card,Retail
+2024-12-29,Tema,Greater Accra,Women's Shoes,Flat Sandal,42,Black,0,192.63,0.0,46,Restock,Credit,Retail
+2024-12-30,Cape Coast,Central,Children's Shoes,Canvas Shoe,39,Brown,5,125.6,628.0,8,Sale,Credit,Retail
+2024-12-30,Accra Central,Greater Accra,Men's Shoes,Classic Oxford,44,Red,3,278.83,836.49,61,Sale,Mobile Money,Retail
+2024-12-30,Accra Central,Greater Accra,Women's Shoes,Ankle Boot,45,White,1,297.84,297.84,36,Sale,Card,Wholesale
+2024-12-30,Accra Central,Greater Accra,Children's Shoes,Canvas Shoe,37,Grey,3,104.37,313.11,30,Sale,Cash,Wholesale
+2024-12-31,Kumasi,Ashanti,Sandals,Children's Sandal,36,Grey,3,107.27,321.81,12,Sale,Credit,Retail
+2025-01-01,Accra Central,Greater Accra,Sports Shoes,Football Boot,38,Grey,5,241.44,1207.2,40,Sale,Credit,Retail
+2025-01-01,Tema,Greater Accra,Sandals,Children's Sandal,42,Tan,4,149.63,598.52,47,Sale,Card,Retail
+2025-01-03,Cape Coast,Central,Men's Shoes,Sports Sneaker,38,White,1,386.81,386.81,72,Sale,Mobile Money,Retail
+2025-01-03,Takoradi,Western,Children's Shoes,School Shoe,37,Tan,2,106.75,213.5,32,Sale,Cash,Retail
+2025-01-03,Tema,Greater Accra,Sports Shoes,Training Shoe,37,Red,2,404.93,809.86,80,Sale,Credit,Wholesale
+2025-01-04,Accra Central,Greater Accra,Sandals,Ladies Slipper,39,Tan,1,67.42,67.42,20,Sale,Card,Retail
+2025-01-05,Tema,Greater Accra,Women's Shoes,Heeled Pump,45,Tan,1,250.1,250.1,67,Sale,Card,Retail
+2025-01-05,Tema,Greater Accra,Men's Shoes,Sports Sneaker,45,Red,0,296.23,0.0,26,Return,Mobile Money,Retail
+2025-01-05,Tema,Greater Accra,Men's Shoes,Leather Boot,41,Brown,6,200.01,1200.06,25,Sale,Card,Wholesale
+2025-01-06,Cape Coast,Central,Women's Shoes,Heeled Pump,41,Red,0,349.59,0.0,24,Restock,Credit,Wholesale
+2025-01-07,Accra Central,Greater Accra,Women's Shoes,Ballet Flat,41,Red,0,321.54,0.0,68,Restock,Credit,Retail
+2025-01-07,Tarkwa,Western,Sandals,Ladies Slipper,41,Black,5,175.06,875.3,22,Sale,Cash,Retail
+2025-01-07,Tarkwa,Western,Children's Shoes,Kids Sneaker,43,White,7,157.96,1105.72,37,Sale,Card,Retail
+2025-01-07,Kumasi,Ashanti,Children's Shoes,Canvas Shoe,36,Black,0,128.57,0.0,13,Restock,Credit,Retail
+2025-01-08,Kumasi,Ashanti,Women's Shoes,Flat Sandal,43,Tan,5,233.36,1166.8,70,Sale,Cash,Retail
+2025-01-08,Tarkwa,Western,Children's Shoes,School Shoe,39,White,2,83.45,166.9,79,Sale,Cash,Retail
+2025-01-08,Tarkwa,Western,Children's Shoes,School Shoe,39,Black,6,152.32,913.92,53,Sale,Mobile Money,Wholesale
+2025-01-08,Cape Coast,Central,Sandals,Children's Sandal,40,Brown,2,174.71,349.42,29,Sale,Credit,Retail
+2025-01-09,Takoradi,Western,Sports Shoes,Training Shoe,44,Grey,4,256.94,1027.76,45,Sale,Cash,Retail
+2025-01-10,Tarkwa,Western,Men's Shoes,Casual Loafer,36,Brown,6,398.61,2391.66,31,Sale,Mobile Money,Retail
+2025-01-10,Tema,Greater Accra,Sandals,Men's Sandal,40,White,2,118.23,236.46,47,Sale,Cash,Retail
+2025-01-10,Tema,Greater Accra,Sandals,Children's Sandal,42,White,4,137.94,551.76,80,Sale,Mobile Money,Wholesale
+2025-01-11,Accra Central,Greater Accra,Sports Shoes,Training Shoe,41,Brown,4,228.06,912.24,62,Sale,Card,Retail
+2025-01-11,Cape Coast,Central,Sports Shoes,Football Boot,44,White,0,388.47,0.0,23,Return,Mobile Money,Retail
+2025-01-11,Takoradi,Western,Women's Shoes,Flat Sandal,38,Navy,5,333.24,1666.2,7,Sale,Card,Retail
+2025-01-12,Takoradi,Western,Sports Shoes,Training Shoe,45,Tan,1,492.12,492.12,26,Sale,Mobile Money,Wholesale
+2025-01-12,Tarkwa,Western,Children's Shoes,Kids Sneaker,36,Navy,3,148.37,445.11,46,Sale,Card,Retail
+2025-01-13,Kumasi,Ashanti,Women's Shoes,Heeled Pump,45,White,0,370.6,0.0,82,Restock,Mobile Money,Retail
+2025-01-13,Kumasi,Ashanti,Sandals,Ladies Slipper,44,Brown,6,173.17,1039.02,48,Sale,Mobile Money,Retail
+2025-01-14,Kumasi,Ashanti,Children's Shoes,School Shoe,40,Red,4,125.18,500.72,58,Sale,Credit,Wholesale
+2025-01-14,Accra Central,Greater Accra,Sandals,Men's Sandal,40,Black,5,158.84,794.2,6,Sale,Cash,Wholesale
+2025-01-14,Accra Central,Greater Accra,Men's Shoes,Casual Loafer,44,Navy,0,251.7,0.0,54,Return,Credit,Retail
+2025-01-14,Cape Coast,Central,Children's Shoes,Canvas Shoe,38,Grey,2,189.31,378.62,6,Sale,Mobile Money,Retail
+2025-01-15,Takoradi,Western,Men's Shoes,Sports Sneaker,36,Black,3,336.12,1008.36,73,Sale,Mobile Money,Wholesale
+2025-01-18,Accra Central,Greater Accra,Sports Shoes,Running Shoe,45,Navy,7,279.8,1958.6,56,Sale,Cash,Retail
+2025-01-19,Tarkwa,Western,Women's Shoes,Flat Sandal,42,Tan,0,347.42,0.0,55,Restock,Card,Wholesale
+2025-01-19,Tarkwa,Western,Sports Shoes,Training Shoe,45,Brown,2,398.12,796.24,80,Sale,Credit,Wholesale
+2025-01-19,Tarkwa,Western,Children's Shoes,Canvas Shoe,45,White,3,83.27,249.81,19,Sale,Mobile Money,Wholesale
+2025-01-20,Accra Central,Greater Accra,Sandals,Children's Sandal,39,Tan,0,74.47,0.0,42,Restock,Mobile Money,Retail
+2025-01-20,Accra Central,Greater Accra,Sports Shoes,Training Shoe,41,Red,0,266.03,0.0,43,Return,Credit,Wholesale
+2025-01-20,Tarkwa,Western,Women's Shoes,Heeled Pump,39,Red,3,342.54,1027.62,62,Sale,Credit,Retail
+2025-01-20,Tema,Greater Accra,Sports Shoes,Running Shoe,45,White,6,486.84,2921.04,6,Sale,Cash,Wholesale
+2025-01-20,Cape Coast,Central,Women's Shoes,Flat Sandal,42,Brown,2,374.82,749.64,50,Sale,Card,Retail
+2025-01-20,Kumasi,Ashanti,Children's Shoes,Canvas Shoe,36,Tan,7,134.65,942.55,82,Sale,Credit,Wholesale
+2025-01-21,Accra Central,Greater Accra,Men's Shoes,Casual Loafer,38,White,5,311.22,1556.1,83,Sale,Cash,Wholesale
+2025-01-21,Takoradi,Western,Men's Shoes,Sports Sneaker,43,Tan,7,283.38,1983.66,68,Sale,Cash,Wholesale
+2025-01-22,Takoradi,Western,Men's Shoes,Casual Loafer,38,Navy,7,220.42,1542.94,73,Sale,Card,Wholesale
+2025-01-22,Kumasi,Ashanti,Women's Shoes,Flat Sandal,37,Brown,7,292.1,2044.7,80,Sale,Cash,Retail
+2025-01-23,Kumasi,Ashanti,Women's Shoes,Heeled Pump,40,Black,7,191.78,1342.46,13,Sale,Mobile Money,Wholesale
+2025-01-23,Tema,Greater Accra,Women's Shoes,Ballet Flat,43,Red,6,306.15,1836.9,72,Sale,Credit,Wholesale
+2025-01-24,Tarkwa,Western,Sports Shoes,Football Boot,38,Grey,6,355.48,2132.88,75,Sale,Mobile Money,Retail
+2025-01-24,Tema,Greater Accra,Sports Shoes,Running Shoe,44,Brown,7,282.36,1976.52,22,Sale,Mobile Money,Retail
+2025-01-25,Tarkwa,Western,Sports Shoes,Training Shoe,44,Navy,0,249.32,0.0,25,Restock,Cash,Retail
+2025-01-25,Takoradi,Western,Sandals,Ladies Slipper,45,Red,5,122.73,613.65,81,Sale,Credit,Wholesale
+2025-01-25,Takoradi,Western,Men's Shoes,Sports Sneaker,43,Red,6,387.07,2322.42,82,Sale,Cash,Retail
+2025-01-26,Tarkwa,Western,Women's Shoes,Ankle Boot,44,Grey,7,294.04,2058.28,13,Sale,Card,Retail
+2025-01-26,Kumasi,Ashanti,Sports Shoes,Football Boot,41,Black,3,360.29,1080.87,69,Sale,Credit,Wholesale
+2025-01-26,Cape Coast,Central,Men's Shoes,Leather Boot,43,Black,7,443.52,3104.64,54,Sale,Credit,Retail
+2025-01-27,Accra Central,Greater Accra,Sandals,Children's Sandal,42,White,7,171.5,1200.5,32,Sale,Card,Retail
+2025-01-27,Cape Coast,Central,Men's Shoes,Sports Sneaker,40,Tan,2,256.34,512.68,34,Sale,Card,Retail
+2025-01-27,Accra Central,Greater Accra,Children's Shoes,School Shoe,40,Grey,3,99.46,298.38,65,Sale,Mobile Money,Retail
+2025-01-27,Tarkwa,Western,Sports Shoes,Running Shoe,44,White,1,378.45,378.45,64,Sale,Card,Retail
+2025-01-28,Tarkwa,Western,Sandals,Men's Sandal,36,Grey,0,116.09,0.0,32,Adjustment,Credit,Retail
+2025-01-28,Takoradi,Western,Sports Shoes,Training Shoe,37,Navy,2,480.61,961.22,29,Sale,Cash,Retail
+2025-01-29,Tema,Greater Accra,Women's Shoes,Ballet Flat,36,Red,6,257.91,1547.46,11,Sale,Card,Retail
+2025-01-30,Tarkwa,Western,Sandals,Men's Sandal,38,Tan,0,108.64,0.0,66,Restock,Credit,Wholesale
+2025-01-30,Takoradi,Western,Sports Shoes,Running Shoe,43,Red,0,441.83,0.0,67,Restock,Card,Retail
+2025-01-30,Tema,Greater Accra,Sports Shoes,Running Shoe,41,Grey,3,440.74,1322.22,25,Sale,Credit,Retail
+2025-01-30,Tema,Greater Accra,Sandals,Men's Sandal,44,Brown,2,94.58,189.16,45,Sale,Cash,Retail
+2025-01-31,Cape Coast,Central,Children's Shoes,Kids Sneaker,45,White,2,210.56,421.12,47,Sale,Mobile Money,Retail
+2025-01-31,Kumasi,Ashanti,Sports Shoes,Football Boot,37,Red,5,273.14,1365.7,61,Sale,Card,Retail
+2025-01-31,Kumasi,Ashanti,Children's Shoes,Kids Sneaker,41,Brown,0,116.2,0.0,45,Return,Credit,Retail
+2025-02-01,Takoradi,Western,Children's Shoes,School Shoe,43,Black,1,80.98,80.98,58,Sale,Credit,Retail
+2025-02-01,Kumasi,Ashanti,Sports Shoes,Running Shoe,37,Grey,0,241.78,0.0,17,Adjustment,Mobile Money,Retail
+2025-02-01,Accra Central,Greater Accra,Women's Shoes,Ankle Boot,44,Grey,6,182.7,1096.2,10,Sale,Cash,Wholesale
+2025-02-02,Accra Central,Greater Accra,Men's Shoes,Casual Loafer,41,Navy,4,229.65,918.6,6,Sale,Credit,Retail
+2025-02-03,Tema,Greater Accra,Women's Shoes,Flat Sandal,39,Red,6,328.66,1971.96,26,Sale,Card,Wholesale
+2025-02-04,Cape Coast,Central,Sports Shoes,Football Boot,44,Navy,1,200.95,200.95,76,Sale,Mobile Money,Retail
+2025-02-04,Accra Central,Greater Accra,Men's Shoes,Sports Sneaker,40,White,0,231.69,0.0,21,Return,Cash,Wholesale
+2025-02-04,Kumasi,Ashanti,Men's Shoes,Leather Boot,39,Brown,5,214.35,1071.75,30,Sale,Card,Wholesale
+2025-02-04,Takoradi,Western,Children's Shoes,Kids Sneaker,37,White,7,152.42,1066.94,63,Sale,Credit,Retail
+2025-02-04,Tarkwa,Western,Women's Shoes,Ankle Boot,36,Grey,4,209.38,837.52,59,Sale,Credit,Wholesale
+2025-02-04,Kumasi,Ashanti,Sandals,Men's Sandal,45,Black,3,159.02,477.06,37,Sale,Mobile Money,Retail
+2025-02-05,Tarkwa,Western,Sandals,Ladies Slipper,37,White,6,174.17,1045.02,37,Sale,Credit,Retail
+2025-02-05,Tarkwa,Western,Sandals,Children's Sandal,41,Black,1,69.99,69.99,53,Sale,Cash,Retail
+2025-02-05,Cape Coast,Central,Women's Shoes,Ballet Flat,40,Navy,0,203.75,0.0,12,Return,Mobile Money,Retail
+2025-02-05,Accra Central,Greater Accra,Sandals,Men's Sandal,37,Red,6,88.83,532.98,52,Sale,Credit,Retail
+2025-02-06,Takoradi,Western,Men's Shoes,Casual Loafer,40,Navy,5,380.04,1900.2,32,Sale,Cash,Retail
+2025-02-06,Takoradi,Western,Children's Shoes,Canvas Shoe,38,Black,6,102.91,617.46,41,Sale,Credit,Retail
+2025-02-06,Tema,Greater Accra,Sports Shoes,Training Shoe,40,White,0,466.52,0.0,22,Restock,Cash,Retail
+2025-02-07,Takoradi,Western,Sports Shoes,Training Shoe,44,Grey,5,202.71,1013.55,32,Sale,Card,Retail
+2025-02-08,Tarkwa,Western,Sandals,Children's Sandal,40,Brown,0,71.33,0.0,60,Restock,Cash,Retail
+2025-02-08,Cape Coast,Central,Men's Shoes,Classic Oxford,36,White,4,438.65,1754.6,7,Sale,Card,Retail
+2025-02-08,Accra Central,Greater Accra,Men's Shoes,Leather Boot,42,Tan,3,194.11,582.33,66,Sale,Card,Retail
+2025-02-09,Kumasi,Ashanti,Sports Shoes,Running Shoe,39,Red,6,436.38,2618.28,38,Sale,Cash,Wholesale
+2025-02-10,Tema,Greater Accra,Sports Shoes,Training Shoe,41,Black,2,400.71,801.42,20,Sale,Cash,Wholesale
+2025-02-10,Cape Coast,Central,Sandals,Ladies Slipper,43,Brown,3,131.92,395.76,35,Sale,Card,Retail
+2025-02-10,Takoradi,Western,Women's Shoes,Ballet Flat,41,White,3,305.92,917.76,57,Sale,Cash,Retail
+2025-02-11,Tema,Greater Accra,Men's Shoes,Casual Loafer,37,Navy,3,201.21,603.63,76,Sale,Card,Retail
+2025-02-11,Accra Central,Greater Accra,Sandals,Children's Sandal,43,Tan,2,95.45,190.9,61,Sale,Mobile Money,Retail
+2025-02-12,Accra Central,Greater Accra,Sports Shoes,Running Shoe,40,White,5,469.77,2348.85,45,Sale,Mobile Money,Wholesale
+2025-02-13,Tema,Greater Accra,Sandals,Ladies Slipper,40,Black,0,95.09,0.0,6,Restock,Credit,Wholesale
+2025-02-13,Takoradi,Western,Men's Shoes,Classic Oxford,36,Tan,3,343.37,1030.11,31,Sale,Mobile Money,Wholesale
+2025-02-14,Tema,Greater Accra,Women's Shoes,Ankle Boot,39,Tan,4,299.0,1196.0,36,Sale,Card,Wholesale
+2025-02-14,Tarkwa,Western,Children's Shoes,School Shoe,45,Brown,4,168.55,674.2,29,Sale,Card,Wholesale
+2025-02-14,Cape Coast,Central,Sandals,Ladies Slipper,44,White,5,167.1,835.5,26,Sale,Card,Retail
+2025-02-16,Takoradi,Western,Sports Shoes,Training Shoe,41,Navy,6,212.09,1272.54,23,Sale,Card,Wholesale
+2025-02-17,Tarkwa,Western,Sandals,Men's Sandal,45,Brown,0,99.18,0.0,37,Return,Mobile Money,Retail
+2025-02-17,Takoradi,Western,Men's Shoes,Leather Boot,45,Tan,5,412.76,2063.8,19,Sale,Mobile Money,Retail
+2025-02-18,Tema,Greater Accra,Sports Shoes,Training Shoe,43,Brown,4,205.8,823.2,18,Sale,Cash,Wholesale
+2025-02-18,Cape Coast,Central,Men's Shoes,Casual Loafer,45,Brown,1,341.04,341.04,30,Sale,Credit,Retail
+2025-02-18,Cape Coast,Central,Sports Shoes,Training Shoe,38,Navy,5,368.58,1842.9,82,Sale,Mobile Money,Retail
+2025-02-19,Cape Coast,Central,Sandals,Men's Sandal,37,Navy,7,69.87,489.09,40,Sale,Card,Retail
+2025-02-19,Cape Coast,Central,Children's Shoes,School Shoe,43,Grey,7,142.17,995.19,15,Sale,Cash,Wholesale
+2025-02-20,Tema,Greater Accra,Sandals,Ladies Slipper,43,Grey,1,143.36,143.36,7,Sale,Cash,Retail
+2025-02-21,Tarkwa,Western,Men's Shoes,Casual Loafer,42,Tan,1,216.55,216.55,45,Sale,Cash,Retail
+2025-02-21,Kumasi,Ashanti,Sandals,Children's Sandal,44,Tan,1,100.93,100.93,41,Sale,Card,Retail
+2025-02-21,Tarkwa,Western,Children's Shoes,Kids Sneaker,45,Tan,6,166.19,997.14,79,Sale,Card,Retail
+2025-02-22,Takoradi,Western,Sports Shoes,Running Shoe,40,White,5,438.08,2190.4,79,Sale,Mobile Money,Retail
+2025-02-22,Tarkwa,Western,Men's Shoes,Classic Oxford,44,Brown,0,309.13,0.0,14,Restock,Credit,Retail
+2025-02-22,Takoradi,Western,Sandals,Children's Sandal,45,Grey,7,74.52,521.64,71,Sale,Cash,Retail
+2025-02-23,Tema,Greater Accra,Children's Shoes,Kids Sneaker,39,Black,0,113.66,0.0,30,Return,Credit,Retail
+2025-02-23,Takoradi,Western,Children's Shoes,Canvas Shoe,43,Tan,4,102.75,411.0,60,Sale,Credit,Wholesale
+2025-02-23,Kumasi,Ashanti,Sports Shoes,Running Shoe,42,Black,5,200.54,1002.7,14,Sale,Cash,Retail
+2025-02-23,Tema,Greater Accra,Men's Shoes,Leather Boot,40,Red,7,344.8,2413.6,48,Sale,Card,Retail
+2025-02-25,Takoradi,Western,Sandals,Children's Sandal,42,Navy,6,86.05,516.3,34,Sale,Cash,Wholesale
+2025-02-25,Takoradi,Western,Men's Shoes,Sports Sneaker,42,Tan,6,283.04,1698.24,33,Sale,Card,Retail
+2025-02-25,Kumasi,Ashanti,Women's Shoes,Flat Sandal,40,Red,0,357.93,0.0,61,Restock,Card,Retail
+2025-02-25,Kumasi,Ashanti,Children's Shoes,School Shoe,44,Grey,0,85.04,0.0,26,Restock,Cash,Retail
+2025-02-27,Takoradi,Western,Women's Shoes,Ballet Flat,44,Tan,1,308.12,308.12,60,Sale,Credit,Retail
+2025-02-28,Cape Coast,Central,Children's Shoes,Kids Sneaker,45,Red,6,210.44,1262.64,16,Sale,Credit,Retail
+2025-03-01,Takoradi,Western,Sports Shoes,Training Shoe,37,White,7,249.92,1749.44,29,Sale,Mobile Money,Wholesale
+2025-03-02,Cape Coast,Central,Children's Shoes,School Shoe,43,Red,0,147.21,0.0,79,Restock,Mobile Money,Retail
+2025-03-03,Tarkwa,Western,Sports Shoes,Running Shoe,39,Tan,7,292.19,2045.33,32,Sale,Credit,Retail
+2025-03-04,Tema,Greater Accra,Children's Shoes,Canvas Shoe,44,Navy,6,135.04,810.24,8,Sale,Mobile Money,Wholesale
+2025-03-04,Tema,Greater Accra,Sandals,Men's Sandal,36,Black,0,70.84,0.0,41,Restock,Credit,Retail
+2025-03-06,Cape Coast,Central,Sports Shoes,Running Shoe,36,Navy,3,231.84,695.52,16,Sale,Cash,Wholesale
+2025-03-07,Tema,Greater Accra,Sports Shoes,Football Boot,39,Red,3,358.98,1076.94,81,Sale,Credit,Retail
+2025-03-07,Tema,Greater Accra,Women's Shoes,Ballet Flat,36,Grey,4,356.0,1424.0,10,Sale,Cash,Retail
+2025-03-10,Tarkwa,Western,Sandals,Men's Sandal,42,Tan,2,90.14,180.28,19,Sale,Credit,Retail
+2025-03-10,Cape Coast,Central,Sports Shoes,Running Shoe,42,Black,0,418.91,0.0,83,Adjustment,Credit,Wholesale
+2025-03-10,Kumasi,Ashanti,Women's Shoes,Flat Sandal,44,Black,6,177.97,1067.82,22,Sale,Card,Retail
+2025-03-10,Tema,Greater Accra,Women's Shoes,Ballet Flat,38,White,6,223.24,1339.44,77,Sale,Mobile Money,Retail
+2025-03-10,Accra Central,Greater Accra,Men's Shoes,Leather Boot,40,Grey,0,237.52,0.0,61,Adjustment,Credit,Wholesale
+2025-03-10,Cape Coast,Central,Sports Shoes,Football Boot,40,Black,5,472.87,2364.35,39,Sale,Cash,Retail
+2025-03-11,Tema,Greater Accra,Sports Shoes,Running Shoe,38,Red,0,317.23,0.0,32,Adjustment,Mobile Money,Retail
+2025-03-11,Tarkwa,Western,Sports Shoes,Football Boot,45,White,2,304.34,608.68,44,Sale,Cash,Wholesale
+2025-03-12,Takoradi,Western,Women's Shoes,Ankle Boot,44,Brown,7,162.75,1139.25,63,Sale,Credit,Retail
+2025-03-12,Cape Coast,Central,Men's Shoes,Classic Oxford,43,Tan,6,219.69,1318.14,51,Sale,Mobile Money,Retail
+2025-03-13,Kumasi,Ashanti,Sandals,Men's Sandal,38,Grey,3,101.21,303.63,31,Sale,Mobile Money,Retail
+2025-03-13,Tarkwa,Western,Children's Shoes,School Shoe,43,Tan,6,167.53,1005.18,29,Sale,Cash,Retail
+2025-03-14,Accra Central,Greater Accra,Sports Shoes,Training Shoe,38,Red,5,489.21,2446.05,15,Sale,Card,Wholesale
+2025-03-15,Takoradi,Western,Sandals,Ladies Slipper,37,Tan,0,166.97,0.0,54,Adjustment,Card,Wholesale
+2025-03-15,Tarkwa,Western,Men's Shoes,Leather Boot,38,Tan,1,297.57,297.57,32,Sale,Credit,Retail
+2025-03-16,Takoradi,Western,Men's Shoes,Sports Sneaker,45,Black,7,395.41,2767.87,31,Sale,Credit,Retail
+2025-03-16,Cape Coast,Central,Men's Shoes,Leather Boot,45,Grey,7,334.41,2340.87,65,Sale,Mobile Money,Wholesale
+2025-03-16,Tema,Greater Accra,Children's Shoes,School Shoe,44,Red,0,167.46,0.0,59,Restock,Cash,Wholesale
+2025-03-17,Tarkwa,Western,Sports Shoes,Football Boot,42,Black,2,381.14,762.28,22,Sale,Mobile Money,Wholesale
+2025-03-17,Tarkwa,Western,Sandals,Ladies Slipper,44,Grey,2,115.69,231.38,44,Sale,Credit,Wholesale
+2025-03-17,Takoradi,Western,Sports Shoes,Running Shoe,37,Black,7,369.52,2586.64,61,Sale,Mobile Money,Wholesale
+2025-03-18,Cape Coast,Central,Children's Shoes,School Shoe,44,Black,5,143.75,718.75,16,Sale,Mobile Money,Wholesale
+2025-03-18,Kumasi,Ashanti,Sandals,Children's Sandal,40,Red,4,105.55,422.2,12,Sale,Credit,Retail
+2025-03-18,Cape Coast,Central,Sandals,Ladies Slipper,39,Red,2,118.03,236.06,48,Sale,Credit,Retail
+2025-03-19,Accra Central,Greater Accra,Sports Shoes,Training Shoe,37,Grey,6,402.32,2413.92,25,Sale,Cash,Retail
+2025-03-20,Cape Coast,Central,Sandals,Men's Sandal,45,White,4,133.58,534.32,34,Sale,Mobile Money,Retail
+2025-03-20,Tarkwa,Western,Sports Shoes,Football Boot,37,White,3,252.32,756.96,28,Sale,Credit,Retail
+2025-03-21,Kumasi,Ashanti,Children's Shoes,Canvas Shoe,37,Tan,6,104.35,626.1,49,Sale,Mobile Money,Retail
+2025-03-21,Tema,Greater Accra,Men's Shoes,Sports Sneaker,41,Grey,7,435.66,3049.62,69,Sale,Mobile Money,Retail
+2025-03-22,Tarkwa,Western,Women's Shoes,Ballet Flat,40,Red,4,240.91,963.64,44,Sale,Credit,Wholesale
+2025-03-22,Takoradi,Western,Sports Shoes,Running Shoe,41,White,4,386.69,1546.76,35,Sale,Credit,Wholesale
+2025-03-23,Accra Central,Greater Accra,Sports Shoes,Training Shoe,44,Red,0,277.0,0.0,47,Return,Cash,Retail
+2025-03-24,Takoradi,Western,Men's Shoes,Classic Oxford,41,Grey,0,251.6,0.0,56,Return,Credit,Wholesale
+2025-03-25,Accra Central,Greater Accra,Men's Shoes,Casual Loafer,43,Brown,5,309.79,1548.95,10,Sale,Credit,Retail
+2025-03-25,Takoradi,Western,Women's Shoes,Ballet Flat,39,Black,0,308.52,0.0,82,Restock,Credit,Retail
+2025-03-25,Accra Central,Greater Accra,Sandals,Children's Sandal,42,Black,6,114.61,687.66,27,Sale,Mobile Money,Retail
+2025-03-25,Kumasi,Ashanti,Sports Shoes,Training Shoe,42,Grey,4,466.62,1866.48,82,Sale,Cash,Wholesale
+2025-03-26,Cape Coast,Central,Women's Shoes,Heeled Pump,45,Brown,0,173.32,0.0,66,Restock,Cash,Retail
+2025-03-27,Tarkwa,Western,Men's Shoes,Classic Oxford,36,Grey,1,334.13,334.13,63,Sale,Credit,Retail
+2025-03-28,Kumasi,Ashanti,Sports Shoes,Running Shoe,43,Navy,4,316.45,1265.8,79,Sale,Cash,Wholesale
+2025-03-28,Kumasi,Ashanti,Children's Shoes,Kids Sneaker,45,Black,6,208.91,1253.46,43,Sale,Credit,Wholesale
+2025-03-28,Takoradi,Western,Women's Shoes,Flat Sandal,36,White,5,240.37,1201.85,63,Sale,Mobile Money,Wholesale
+2025-03-30,Cape Coast,Central,Men's Shoes,Sports Sneaker,45,Brown,0,267.26,0.0,40,Return,Mobile Money,Retail
+2025-03-30,Tema,Greater Accra,Sandals,Children's Sandal,44,Navy,0,171.24,0.0,72,Return,Mobile Money,Retail
+2025-03-30,Tarkwa,Western,Men's Shoes,Sports Sneaker,37,Navy,5,183.94,919.7,77,Sale,Credit,Retail
+2025-03-31,Tema,Greater Accra,Sandals,Ladies Slipper,45,Red,6,64.91,389.46,21,Sale,Mobile Money,Retail
+2025-03-31,Cape Coast,Central,Men's Shoes,Classic Oxford,44,Grey,3,188.81,566.43,69,Sale,Card,Retail
+2025-03-31,Tema,Greater Accra,Sandals,Ladies Slipper,39,Brown,4,67.57,270.28,27,Sale,Mobile Money,Retail
+2025-04-01,Tarkwa,Western,Sandals,Children's Sandal,42,Black,5,128.59,642.95,26,Sale,Card,Wholesale
+2025-04-01,Takoradi,Western,Sandals,Men's Sandal,42,Tan,0,112.53,0.0,9,Restock,Mobile Money,Retail
+2025-04-02,Tema,Greater Accra,Men's Shoes,Sports Sneaker,43,White,6,262.01,1572.06,40,Sale,Cash,Retail
+2025-04-02,Cape Coast,Central,Sandals,Children's Sandal,36,Navy,6,101.98,611.88,61,Sale,Credit,Retail
+2025-04-03,Takoradi,Western,Sports Shoes,Training Shoe,40,Navy,4,340.75,1363.0,83,Sale,Card,Retail
+2025-04-03,Tema,Greater Accra,Sports Shoes,Football Boot,39,Brown,4,431.85,1727.4,26,Sale,Card,Wholesale
+2025-04-04,Cape Coast,Central,Men's Shoes,Classic Oxford,39,Tan,0,378.04,0.0,18,Restock,Credit,Wholesale
+2025-04-04,Cape Coast,Central,Sports Shoes,Running Shoe,38,Brown,6,298.71,1792.26,49,Sale,Card,Retail
+2025-04-04,Kumasi,Ashanti,Sports Shoes,Running Shoe,43,Black,0,202.95,0.0,53,Restock,Credit,Retail
+2025-04-05,Kumasi,Ashanti,Men's Shoes,Sports Sneaker,43,Black,1,196.44,196.44,6,Sale,Credit,Retail
+2025-04-05,Tarkwa,Western,Sports Shoes,Training Shoe,42,Red,5,318.98,1594.9,84,Sale,Credit,Retail
+2025-04-05,Takoradi,Western,Children's Shoes,Canvas Shoe,42,Grey,4,87.32,349.28,18,Sale,Mobile Money,Wholesale
+2025-04-06,Accra Central,Greater Accra,Men's Shoes,Casual Loafer,39,Navy,3,392.13,1176.39,19,Sale,Mobile Money,Wholesale
+2025-04-06,Takoradi,Western,Children's Shoes,School Shoe,44,Black,4,122.77,491.08,66,Sale,Credit,Wholesale
+2025-04-06,Tema,Greater Accra,Sandals,Ladies Slipper,40,White,1,107.55,107.55,26,Sale,Credit,Retail
+2025-04-07,Accra Central,Greater Accra,Sandals,Men's Sandal,44,Red,7,103.13,721.91,19,Sale,Card,Retail
+2025-04-08,Tarkwa,Western,Sandals,Men's Sandal,42,Brown,0,108.17,0.0,82,Return,Credit,Retail
+2025-04-10,Tarkwa,Western,Men's Shoes,Leather Boot,36,Brown,0,310.97,0.0,21,Restock,Credit,Wholesale
+2025-04-10,Takoradi,Western,Sports Shoes,Running Shoe,45,Tan,1,385.43,385.43,17,Sale,Cash,Retail
+2025-04-11,Kumasi,Ashanti,Men's Shoes,Classic Oxford,42,Grey,0,234.17,0.0,12,Adjustment,Credit,Retail
+2025-04-11,Accra Central,Greater Accra,Women's Shoes,Flat Sandal,36,Tan,0,292.81,0.0,54,Adjustment,Card,Wholesale
+2025-04-12,Tema,Greater Accra,Men's Shoes,Sports Sneaker,36,Black,0,334.2,0.0,68,Restock,Card,Retail
+2025-04-13,Tarkwa,Western,Children's Shoes,Kids Sneaker,39,White,0,202.57,0.0,49,Restock,Card,Wholesale
+2025-04-13,Kumasi,Ashanti,Sports Shoes,Running Shoe,36,Grey,3,259.72,779.16,57,Sale,Credit,Retail
+2025-04-13,Tema,Greater Accra,Women's Shoes,Ankle Boot,41,Grey,2,351.28,702.56,46,Sale,Credit,Retail
+2025-04-14,Accra Central,Greater Accra,Children's Shoes,Canvas Shoe,45,Tan,7,202.2,1415.4,30,Sale,Credit,Retail
+2025-04-14,Cape Coast,Central,Sports Shoes,Training Shoe,45,Black,2,494.11,988.22,66,Sale,Cash,Retail
+2025-04-15,Tema,Greater Accra,Sandals,Men's Sandal,37,Grey,7,116.67,816.69,74,Sale,Cash,Retail
+2025-04-15,Cape Coast,Central,Women's Shoes,Flat Sandal,44,Red,3,353.92,1061.76,33,Sale,Mobile Money,Retail
+2025-04-15,Tarkwa,Western,Sports Shoes,Training Shoe,45,Tan,4,293.51,1174.04,64,Sale,Cash,Retail
+2025-04-16,Cape Coast,Central,Sports Shoes,Football Boot,42,Brown,6,315.9,1895.4,76,Sale,Cash,Retail
+2025-04-16,Cape Coast,Central,Sandals,Men's Sandal,45,Red,1,156.31,156.31,68,Sale,Card,Retail
+2025-04-17,Cape Coast,Central,Women's Shoes,Ankle Boot,41,Navy,4,162.01,648.04,58,Sale,Credit,Retail
+2025-04-17,Tarkwa,Western,Men's Shoes,Sports Sneaker,36,Red,7,255.4,1787.8,71,Sale,Cash,Retail
+2025-04-17,Tarkwa,Western,Sports Shoes,Running Shoe,39,White,6,464.82,2788.92,51,Sale,Credit,Retail
+2025-04-18,Takoradi,Western,Women's Shoes,Flat Sandal,39,Red,5,249.78,1248.9,9,Sale,Card,Retail
+2025-04-18,Tarkwa,Western,Sports Shoes,Football Boot,40,Tan,6,283.92,1703.52,78,Sale,Credit,Retail
+2025-04-18,Kumasi,Ashanti,Men's Shoes,Leather Boot,39,Grey,1,417.98,417.98,29,Sale,Mobile Money,Retail
+2025-04-18,Tema,Greater Accra,Men's Shoes,Classic Oxford,37,Grey,2,244.29,488.58,52,Sale,Card,Wholesale
+2025-04-19,Tarkwa,Western,Sports Shoes,Football Boot,36,Black,4,338.2,1352.8,9,Sale,Credit,Retail
+2025-04-19,Tema,Greater Accra,Women's Shoes,Flat Sandal,38,Brown,3,363.87,1091.61,59,Sale,Mobile Money,Wholesale
+2025-04-19,Accra Central,Greater Accra,Sandals,Ladies Slipper,40,Brown,0,118.4,0.0,83,Return,Mobile Money,Retail
+2025-04-20,Accra Central,Greater Accra,Sandals,Men's Sandal,43,Red,2,103.11,206.22,74,Sale,Cash,Wholesale
+2025-04-20,Tema,Greater Accra,Children's Shoes,School Shoe,39,Navy,3,94.54,283.62,51,Sale,Credit,Retail
+2025-04-20,Cape Coast,Central,Men's Shoes,Sports Sneaker,39,Brown,0,399.56,0.0,34,Return,Credit,Retail
+2025-04-20,Tarkwa,Western,Men's Shoes,Casual Loafer,36,Red,0,313.22,0.0,47,Return,Cash,Wholesale
+2025-04-20,Tema,Greater Accra,Sports Shoes,Training Shoe,42,Navy,7,476.79,3337.53,13,Sale,Mobile Money,Wholesale
+2025-04-20,Tema,Greater Accra,Sports Shoes,Running Shoe,44,Red,3,294.95,884.85,48,Sale,Credit,Retail
+2025-04-21,Takoradi,Western,Men's Shoes,Sports Sneaker,42,Tan,7,374.0,2618.0,17,Sale,Mobile Money,Wholesale
+2025-04-21,Tema,Greater Accra,Children's Shoes,School Shoe,37,Navy,4,128.23,512.92,32,Sale,Card,Retail
+2025-04-21,Takoradi,Western,Sports Shoes,Training Shoe,37,Tan,1,248.41,248.41,34,Sale,Card,Wholesale
+2025-04-21,Kumasi,Ashanti,Sandals,Children's Sandal,45,Tan,6,134.81,808.86,60,Sale,Card,Retail
+2025-04-21,Tema,Greater Accra,Men's Shoes,Sports Sneaker,38,Black,3,267.31,801.93,74,Sale,Credit,Retail
+2025-04-21,Cape Coast,Central,Women's Shoes,Ankle Boot,36,Grey,2,368.21,736.42,24,Sale,Cash,Retail
+2025-04-22,Cape Coast,Central,Children's Shoes,School Shoe,43,Tan,2,159.38,318.76,44,Sale,Card,Retail
+2025-04-22,Cape Coast,Central,Sandals,Men's Sandal,40,Black,7,70.17,491.19,61,Sale,Card,Wholesale
+2025-04-25,Takoradi,Western,Women's Shoes,Flat Sandal,38,Navy,5,364.52,1822.6,50,Sale,Mobile Money,Wholesale
+2025-04-25,Kumasi,Ashanti,Women's Shoes,Flat Sandal,42,Grey,0,174.33,0.0,37,Restock,Cash,Retail
+2025-04-26,Kumasi,Ashanti,Women's Shoes,Flat Sandal,37,Tan,0,208.98,0.0,28,Adjustment,Mobile Money,Retail
+2025-04-28,Cape Coast,Central,Men's Shoes,Casual Loafer,43,Brown,5,435.16,2175.8,29,Sale,Mobile Money,Retail
+2025-04-29,Cape Coast,Central,Women's Shoes,Ankle Boot,44,Red,1,312.8,312.8,74,Sale,Mobile Money,Retail
+2025-04-29,Takoradi,Western,Sports Shoes,Running Shoe,42,White,5,335.66,1678.3,63,Sale,Cash,Retail
+2025-04-29,Cape Coast,Central,Sandals,Children's Sandal,45,Brown,5,150.8,754.0,45,Sale,Cash,Wholesale
+2025-04-29,Takoradi,Western,Sandals,Children's Sandal,45,Tan,2,94.07,188.14,36,Sale,Cash,Retail
+2025-05-02,Tema,Greater Accra,Sports Shoes,Football Boot,44,Brown,6,249.12,1494.72,71,Sale,Credit,Wholesale
+2025-05-02,Tema,Greater Accra,Sports Shoes,Football Boot,36,Red,3,290.99,872.97,64,Sale,Mobile Money,Retail
+2025-05-03,Takoradi,Western,Children's Shoes,School Shoe,42,Black,5,106.04,530.2,17,Sale,Mobile Money,Retail
+2025-05-03,Kumasi,Ashanti,Women's Shoes,Ankle Boot,43,Tan,0,278.85,0.0,25,Adjustment,Mobile Money,Retail
+2025-05-04,Tema,Greater Accra,Children's Shoes,Kids Sneaker,42,Red,1,198.51,198.51,51,Sale,Cash,Retail
+2025-05-04,Takoradi,Western,Men's Shoes,Leather Boot,40,Tan,0,206.23,0.0,11,Return,Mobile Money,Wholesale
+2025-05-04,Cape Coast,Central,Children's Shoes,Canvas Shoe,40,White,6,136.84,821.04,52,Sale,Mobile Money,Retail
+2025-05-04,Accra Central,Greater Accra,Sandals,Children's Sandal,36,Brown,6,119.78,718.68,29,Sale,Card,Retail
+2025-05-05,Tema,Greater Accra,Sandals,Men's Sandal,41,Brown,0,111.37,0.0,60,Return,Mobile Money,Retail
+2025-05-05,Cape Coast,Central,Children's Shoes,Canvas Shoe,44,Tan,2,96.53,193.06,49,Sale,Cash,Wholesale
+2025-05-06,Accra Central,Greater Accra,Sports Shoes,Training Shoe,41,Grey,0,421.73,0.0,43,Restock,Cash,Wholesale
+2025-05-06,Tarkwa,Western,Men's Shoes,Sports Sneaker,41,White,0,208.33,0.0,80,Adjustment,Credit,Retail
+2025-05-07,Cape Coast,Central,Sports Shoes,Running Shoe,42,Tan,7,426.54,2985.78,8,Sale,Mobile Money,Retail
+2025-05-07,Takoradi,Western,Sandals,Children's Sandal,45,Brown,1,157.49,157.49,83,Sale,Mobile Money,Wholesale
+2025-05-07,Accra Central,Greater Accra,Children's Shoes,School Shoe,38,Grey,6,96.99,581.94,11,Sale,Credit,Retail
+2025-05-07,Accra Central,Greater Accra,Sandals,Children's Sandal,44,Grey,0,132.47,0.0,47,Restock,Cash,Retail
+2025-05-08,Tarkwa,Western,Sports Shoes,Running Shoe,39,Navy,1,393.4,393.4,40,Sale,Cash,Retail
+2025-05-10,Accra Central,Greater Accra,Men's Shoes,Classic Oxford,39,Tan,0,276.11,0.0,34,Restock,Mobile Money,Retail
+2025-05-11,Tema,Greater Accra,Sandals,Men's Sandal,36,Grey,2,141.56,283.12,42,Sale,Credit,Wholesale
+2025-05-11,Tema,Greater Accra,Women's Shoes,Heeled Pump,41,White,6,344.34,2066.04,20,Sale,Credit,Retail
+2025-05-11,Takoradi,Western,Children's Shoes,Kids Sneaker,43,Tan,7,147.1,1029.7,61,Sale,Card,Retail
+2025-05-11,Tema,Greater Accra,Sports Shoes,Running Shoe,36,Grey,4,415.53,1662.12,73,Sale,Card,Retail
+2025-05-11,Kumasi,Ashanti,Sandals,Ladies Slipper,39,Black,1,159.62,159.62,62,Sale,Cash,Wholesale
+2025-05-12,Accra Central,Greater Accra,Sandals,Ladies Slipper,44,Navy,3,111.5,334.5,11,Sale,Credit,Retail
+2025-05-12,Tarkwa,Western,Children's Shoes,School Shoe,37,Red,6,173.65,1041.9,63,Sale,Credit,Retail
+2025-05-13,Kumasi,Ashanti,Children's Shoes,Canvas Shoe,45,Grey,6,156.95,941.7,12,Sale,Mobile Money,Retail
+2025-05-13,Takoradi,Western,Children's Shoes,Kids Sneaker,44,Red,2,190.6,381.2,32,Sale,Cash,Retail
+2025-05-14,Tarkwa,Western,Sandals,Ladies Slipper,36,White,2,139.32,278.64,52,Sale,Mobile Money,Wholesale
+2025-05-14,Tema,Greater Accra,Women's Shoes,Ballet Flat,39,Black,0,213.77,0.0,9,Restock,Card,Retail
+2025-05-14,Kumasi,Ashanti,Men's Shoes,Casual Loafer,42,Tan,7,224.33,1570.31,64,Sale,Cash,Retail
+2025-05-14,Tarkwa,Western,Women's Shoes,Heeled Pump,45,Black,3,290.26,870.78,42,Sale,Credit,Retail
+2025-05-15,Accra Central,Greater Accra,Children's Shoes,Kids Sneaker,45,Brown,0,189.07,0.0,73,Adjustment,Credit,Retail
+2025-05-15,Kumasi,Ashanti,Women's Shoes,Heeled Pump,43,White,1,165.34,165.34,35,Sale,Credit,Wholesale
+2025-05-15,Cape Coast,Central,Women's Shoes,Ballet Flat,44,Brown,5,189.58,947.9,20,Sale,Card,Retail
+2025-05-16,Tema,Greater Accra,Children's Shoes,Canvas Shoe,45,Navy,2,149.94,299.88,38,Sale,Credit,Retail
+2025-05-16,Tema,Greater Accra,Sandals,Men's Sandal,36,Red,2,90.48,180.96,8,Sale,Credit,Retail
+2025-05-17,Tarkwa,Western,Sandals,Men's Sandal,39,Black,4,130.58,522.32,18,Sale,Cash,Retail
+2025-05-17,Tarkwa,Western,Men's Shoes,Casual Loafer,37,Red,0,293.89,0.0,82,Return,Cash,Retail
+2025-05-17,Tema,Greater Accra,Men's Shoes,Casual Loafer,42,Grey,1,224.47,224.47,53,Sale,Mobile Money,Wholesale
+2025-05-17,Tema,Greater Accra,Sports Shoes,Running Shoe,39,Black,5,330.55,1652.75,74,Sale,Mobile Money,Wholesale
+2025-05-18,Tema,Greater Accra,Sandals,Ladies Slipper,40,Red,3,72.61,217.83,83,Sale,Cash,Wholesale
+2025-05-18,Takoradi,Western,Men's Shoes,Leather Boot,39,White,0,183.08,0.0,37,Adjustment,Cash,Retail
+2025-05-19,Tema,Greater Accra,Men's Shoes,Sports Sneaker,45,White,6,365.0,2190.0,23,Sale,Card,Retail
+2025-05-19,Cape Coast,Central,Children's Shoes,School Shoe,44,Tan,1,103.47,103.47,41,Sale,Credit,Retail
+2025-05-20,Kumasi,Ashanti,Sports Shoes,Football Boot,43,Red,0,237.57,0.0,41,Return,Card,Retail
+2025-05-20,Takoradi,Western,Men's Shoes,Classic Oxford,38,Navy,3,424.45,1273.35,51,Sale,Card,Retail
+2025-05-20,Takoradi,Western,Women's Shoes,Heeled Pump,39,Brown,5,319.26,1596.3,12,Sale,Card,Retail
+2025-05-20,Takoradi,Western,Women's Shoes,Flat Sandal,40,Brown,6,267.64,1605.84,7,Sale,Mobile Money,Retail
+2025-05-20,Cape Coast,Central,Sandals,Ladies Slipper,39,Brown,0,155.12,0.0,28,Restock,Cash,Retail
+2025-05-20,Cape Coast,Central,Sports Shoes,Training Shoe,37,Grey,3,475.09,1425.27,79,Sale,Mobile Money,Retail
+2025-05-21,Tema,Greater Accra,Children's Shoes,Canvas Shoe,41,Grey,3,176.0,528.0,30,Sale,Credit,Retail
+2025-05-22,Tema,Greater Accra,Children's Shoes,Kids Sneaker,43,White,0,94.33,0.0,80,Return,Credit,Wholesale
+2025-05-22,Cape Coast,Central,Children's Shoes,Canvas Shoe,40,Grey,2,185.88,371.76,30,Sale,Credit,Retail
+2025-05-22,Accra Central,Greater Accra,Women's Shoes,Flat Sandal,42,Red,4,348.95,1395.8,6,Sale,Mobile Money,Retail
+2025-05-23,Tarkwa,Western,Women's Shoes,Flat Sandal,36,Grey,1,245.12,245.12,79,Sale,Credit,Retail
+2025-05-24,Tema,Greater Accra,Sports Shoes,Football Boot,40,Tan,5,359.61,1798.05,64,Sale,Cash,Wholesale
+2025-05-24,Takoradi,Western,Sports Shoes,Running Shoe,45,Brown,5,466.41,2332.05,14,Sale,Card,Wholesale
+2025-05-25,Tema,Greater Accra,Children's Shoes,School Shoe,42,Brown,1,151.8,151.8,58,Sale,Mobile Money,Retail
+2025-05-25,Cape Coast,Central,Children's Shoes,School Shoe,36,Brown,0,85.92,0.0,37,Return,Cash,Wholesale
+2025-05-25,Accra Central,Greater Accra,Men's Shoes,Sports Sneaker,38,Brown,7,208.19,1457.33,13,Sale,Mobile Money,Retail
+2025-05-25,Accra Central,Greater Accra,Men's Shoes,Sports Sneaker,40,Black,0,181.63,0.0,66,Restock,Credit,Wholesale
+2025-05-25,Takoradi,Western,Sandals,Ladies Slipper,42,Brown,6,88.51,531.06,6,Sale,Cash,Retail
+2025-05-25,Accra Central,Greater Accra,Men's Shoes,Casual Loafer,36,Grey,6,236.11,1416.66,61,Sale,Credit,Wholesale
+2025-05-26,Kumasi,Ashanti,Men's Shoes,Casual Loafer,44,Red,5,199.26,996.3,40,Sale,Card,Wholesale
+2025-05-26,Kumasi,Ashanti,Sports Shoes,Training Shoe,43,Navy,4,447.99,1791.96,53,Sale,Cash,Retail
+2025-05-26,Kumasi,Ashanti,Sports Shoes,Football Boot,39,White,5,233.13,1165.65,5,Sale,Credit,Retail
+2025-05-27,Accra Central,Greater Accra,Sandals,Men's Sandal,40,White,2,83.41,166.82,45,Sale,Mobile Money,Retail
+2025-05-27,Kumasi,Ashanti,Sports Shoes,Football Boot,41,White,0,441.73,0.0,84,Restock,Cash,Wholesale
+2025-05-27,Accra Central,Greater Accra,Sandals,Ladies Slipper,45,Red,1,166.49,166.49,75,Sale,Cash,Wholesale
+2025-05-27,Takoradi,Western,Sports Shoes,Football Boot,37,Red,1,234.71,234.71,80,Sale,Mobile Money,Retail
+2025-05-28,Takoradi,Western,Men's Shoes,Casual Loafer,45,Black,5,219.23,1096.15,26,Sale,Credit,Retail
+2025-05-30,Tema,Greater Accra,Men's Shoes,Casual Loafer,43,White,5,302.67,1513.35,62,Sale,Credit,Wholesale
+2025-05-30,Cape Coast,Central,Women's Shoes,Flat Sandal,41,Tan,6,245.07,1470.42,48,Sale,Card,Retail
+2025-05-30,Accra Central,Greater Accra,Sports Shoes,Running Shoe,44,Grey,4,249.21,996.84,34,Sale,Card,Retail
+2025-05-30,Accra Central,Greater Accra,Women's Shoes,Ballet Flat,43,Black,1,257.03,257.03,14,Sale,Mobile Money,Wholesale
+2025-05-31,Tarkwa,Western,Sports Shoes,Training Shoe,42,White,0,410.28,0.0,16,Restock,Credit,Retail
+2025-05-31,Kumasi,Ashanti,Children's Shoes,Canvas Shoe,37,Black,7,155.74,1090.18,58,Sale,Mobile Money,Wholesale
+2025-05-31,Accra Central,Greater Accra,Sports Shoes,Training Shoe,36,Brown,0,322.55,0.0,64,Restock,Cash,Retail
+2025-06-01,Cape Coast,Central,Sports Shoes,Training Shoe,36,Red,4,476.34,1905.36,84,Sale,Card,Retail
+2025-06-01,Takoradi,Western,Men's Shoes,Classic Oxford,37,Brown,6,291.23,1747.38,5,Sale,Credit,Wholesale
+2025-06-01,Kumasi,Ashanti,Sports Shoes,Running Shoe,38,Grey,7,479.0,3353.0,18,Sale,Mobile Money,Retail
+2025-06-02,Takoradi,Western,Men's Shoes,Classic Oxford,36,Navy,4,225.4,901.6,27,Sale,Cash,Retail
+2025-06-02,Cape Coast,Central,Women's Shoes,Ankle Boot,43,White,4,154.2,616.8,31,Sale,Cash,Wholesale
+2025-06-03,Cape Coast,Central,Women's Shoes,Flat Sandal,39,White,3,298.17,894.51,71,Sale,Card,Wholesale
+2025-06-04,Accra Central,Greater Accra,Men's Shoes,Classic Oxford,38,White,6,186.33,1117.98,28,Sale,Mobile Money,Wholesale
+2025-06-04,Tema,Greater Accra,Sandals,Ladies Slipper,37,Navy,4,66.63,266.52,24,Sale,Credit,Retail
+2025-06-04,Cape Coast,Central,Children's Shoes,Canvas Shoe,40,Navy,5,117.24,586.2,30,Sale,Mobile Money,Retail
+2025-06-04,Cape Coast,Central,Sports Shoes,Training Shoe,43,Navy,2,239.22,478.44,29,Sale,Cash,Retail
+2025-06-05,Takoradi,Western,Women's Shoes,Ballet Flat,43,Black,0,265.16,0.0,43,Return,Card,Retail
+2025-06-05,Accra Central,Greater Accra,Men's Shoes,Leather Boot,37,Black,7,304.07,2128.49,63,Sale,Cash,Retail
+2025-06-06,Kumasi,Ashanti,Women's Shoes,Heeled Pump,39,Brown,2,268.85,537.7,52,Sale,Mobile Money,Wholesale
+2025-06-07,Accra Central,Greater Accra,Men's Shoes,Casual Loafer,42,Red,4,197.52,790.08,21,Sale,Card,Retail
+2025-06-07,Accra Central,Greater Accra,Sandals,Ladies Slipper,42,Black,5,137.25,686.25,12,Sale,Cash,Retail
+2025-06-08,Tema,Greater Accra,Children's Shoes,Canvas Shoe,43,Navy,4,153.27,613.08,45,Sale,Cash,Retail
+2025-06-08,Takoradi,Western,Sandals,Men's Sandal,43,Brown,0,94.47,0.0,32,Restock,Credit,Retail
+2025-06-08,Tema,Greater Accra,Women's Shoes,Flat Sandal,36,Navy,6,352.62,2115.72,66,Sale,Credit,Wholesale
+2025-06-08,Takoradi,Western,Sports Shoes,Running Shoe,40,Black,2,215.29,430.58,70,Sale,Cash,Retail
+2025-06-09,Tarkwa,Western,Women's Shoes,Flat Sandal,36,Black,4,270.02,1080.08,69,Sale,Mobile Money,Retail
+2025-06-09,Cape Coast,Central,Sandals,Children's Sandal,42,Red,1,70.41,70.41,41,Sale,Mobile Money,Retail
+2025-06-09,Cape Coast,Central,Men's Shoes,Leather Boot,41,Red,0,313.59,0.0,51,Return,Card,Retail
+2025-06-09,Takoradi,Western,Men's Shoes,Classic Oxford,42,Grey,2,301.56,603.12,64,Sale,Cash,Retail
+2025-06-09,Kumasi,Ashanti,Women's Shoes,Heeled Pump,37,Black,5,377.75,1888.75,12,Sale,Cash,Wholesale
+2025-06-09,Tarkwa,Western,Children's Shoes,School Shoe,40,Tan,6,150.16,900.96,23,Sale,Mobile Money,Wholesale
+2025-06-10,Cape Coast,Central,Sports Shoes,Running Shoe,45,Brown,0,308.1,0.0,46,Restock,Mobile Money,Retail
+2025-06-12,Kumasi,Ashanti,Men's Shoes,Casual Loafer,40,Black,4,335.46,1341.84,49,Sale,Card,Retail
+2025-06-14,Tema,Greater Accra,Children's Shoes,Canvas Shoe,38,Tan,5,108.98,544.9,52,Sale,Cash,Retail
+2025-06-15,Tarkwa,Western,Women's Shoes,Ballet Flat,43,Red,0,177.56,0.0,64,Return,Credit,Wholesale
+2025-06-15,Takoradi,Western,Men's Shoes,Leather Boot,43,Tan,4,219.81,879.24,31,Sale,Cash,Retail
+2025-06-15,Cape Coast,Central,Women's Shoes,Heeled Pump,43,Red,0,333.4,0.0,35,Restock,Credit,Retail
+2025-06-17,Takoradi,Western,Men's Shoes,Classic Oxford,44,White,2,364.3,728.6,29,Sale,Cash,Wholesale
+2025-06-20,Tarkwa,Western,Children's Shoes,Canvas Shoe,41,Red,6,213.44,1280.64,52,Sale,Card,Retail
+2025-06-20,Accra Central,Greater Accra,Women's Shoes,Flat Sandal,44,Red,7,169.89,1189.23,29,Sale,Mobile Money,Retail
+2025-06-20,Accra Central,Greater Accra,Sports Shoes,Running Shoe,37,Grey,7,267.73,1874.11,20,Sale,Mobile Money,Retail
+2025-06-20,Kumasi,Ashanti,Children's Shoes,Kids Sneaker,44,White,5,151.78,758.9,54,Sale,Card,Wholesale
+2025-06-21,Kumasi,Ashanti,Sandals,Ladies Slipper,39,Tan,0,169.23,0.0,60,Adjustment,Cash,Retail
+2025-06-21,Cape Coast,Central,Women's Shoes,Ankle Boot,44,Grey,3,355.34,1066.02,26,Sale,Cash,Wholesale
+2025-06-23,Tarkwa,Western,Sandals,Ladies Slipper,36,Navy,1,108.61,108.61,38,Sale,Mobile Money,Wholesale
+2025-06-24,Kumasi,Ashanti,Children's Shoes,Canvas Shoe,44,Navy,3,91.32,273.96,5,Sale,Mobile Money,Retail
+2025-06-24,Tema,Greater Accra,Men's Shoes,Sports Sneaker,45,Navy,7,388.44,2719.08,70,Sale,Mobile Money,Retail
+2025-06-25,Accra Central,Greater Accra,Women's Shoes,Heeled Pump,36,Grey,0,316.99,0.0,74,Restock,Cash,Retail
+2025-06-26,Cape Coast,Central,Men's Shoes,Casual Loafer,39,Black,3,263.63,790.89,13,Sale,Card,Retail
+2025-06-28,Kumasi,Ashanti,Sandals,Children's Sandal,40,Black,7,126.37,884.59,29,Sale,Mobile Money,Retail
+2025-06-29,Accra Central,Greater Accra,Men's Shoes,Leather Boot,38,White,6,313.25,1879.5,70,Sale,Mobile Money,Wholesale
+2025-06-29,Kumasi,Ashanti,Children's Shoes,Canvas Shoe,42,Red,3,167.99,503.97,66,Sale,Cash,Wholesale
+2025-06-29,Kumasi,Ashanti,Sports Shoes,Training Shoe,42,Tan,6,353.68,2122.08,78,Sale,Card,Retail
+2025-06-30,Accra Central,Greater Accra,Men's Shoes,Sports Sneaker,45,Brown,6,200.29,1201.74,37,Sale,Card,Wholesale
+2025-06-30,Cape Coast,Central,Women's Shoes,Ballet Flat,40,Red,2,164.72,329.44,67,Sale,Card,Retail
+2025-06-30,Cape Coast,Central,Children's Shoes,Canvas Shoe,45,Tan,7,122.57,857.99,71,Sale,Mobile Money,Wholesale
+2025-06-30,Cape Coast,Central,Men's Shoes,Leather Boot,36,Brown,0,280.28,0.0,51,Adjustment,Credit,Retail
+2025-07-01,Tema,Greater Accra,Children's Shoes,School Shoe,37,Red,5,121.28,606.4,78,Sale,Card,Wholesale
+2025-07-01,Accra Central,Greater Accra,Men's Shoes,Leather Boot,36,Black,3,248.43,745.29,74,Sale,Cash,Retail
+2025-07-01,Kumasi,Ashanti,Men's Shoes,Casual Loafer,37,Tan,0,201.15,0.0,53,Restock,Cash,Retail
+2025-07-01,Cape Coast,Central,Children's Shoes,School Shoe,38,Grey,0,157.46,0.0,71,Return,Credit,Retail
+2025-07-03,Takoradi,Western,Men's Shoes,Sports Sneaker,41,Grey,5,313.18,1565.9,79,Sale,Credit,Retail
+2025-07-03,Tema,Greater Accra,Men's Shoes,Classic Oxford,44,Grey,0,184.96,0.0,83,Restock,Cash,Retail
+2025-07-03,Cape Coast,Central,Men's Shoes,Leather Boot,41,Black,6,332.56,1995.36,65,Sale,Mobile Money,Retail
+2025-07-03,Tarkwa,Western,Sports Shoes,Training Shoe,43,Red,7,223.77,1566.39,82,Sale,Mobile Money,Retail
