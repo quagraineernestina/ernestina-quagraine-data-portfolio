@@ -18,7 +18,7 @@ I am currently pursuing an **MBA in Financial and Management Analytics** to deep
 
 | # | Project | Tools | Description | Status |
 |---|---------|-------|-------------|--------|
-| 01 | [Sales & Inventory Analysis](./projects/01-sales-inventory-analysis/) | Excel, Python (pandas), Visualization | Analysis of sales patterns and inventory movement to detect anomalies and improve stock decisions | In Progress |
+| 01 | [Sales & Inventory Analysis](./projects/01-sales-inventory-analysis/) | Excel, Python (pandas), Visualization | Analysis of sales patterns and inventory movement to detect anomalies and improve stock decisions | Completed|
 | 02 | Coming soon | — | — | Planned |
 | 03 | Coming soon | — | — | Planned |
 
