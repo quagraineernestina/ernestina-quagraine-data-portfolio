@@ -1,0 +1,65 @@
+Month,Department,Budget_GHS,Actual_GHS,Variance_GHS,Variance_Type
+Jan-2025,Sales Revenue,195795,216974.43,21179.43,Favourable
+Jan-2025,Cost of Goods Sold,139732,147735.23,8003.23,Adverse
+Jan-2025,Staff Costs,41265,40038.57,-1226.43,Favourable
+Jan-2025,Rent & Utilities,16426,16913.89,487.89,Adverse
+Jan-2025,Marketing & Advertising,11444,12479.06,1035.06,Adverse
+Jan-2025,Transport & Logistics,9130,8269.62,-860.38,Favourable
+Jan-2025,Administrative Expenses,6769,7223.74,454.74,Adverse
+Jan-2025,Depreciation,6853,6716.15,-136.85,Favourable
+Feb-2025,Sales Revenue,233707,239969.59,6262.59,Favourable
+Feb-2025,Cost of Goods Sold,101396,103357.74,1961.74,Adverse
+Feb-2025,Staff Costs,43666,44955.93,1289.93,Adverse
+Feb-2025,Rent & Utilities,14047,14159.08,112.08,Adverse
+Feb-2025,Marketing & Advertising,8975,8464.4,-510.6,Favourable
+Feb-2025,Transport & Logistics,11734,12592.32,858.32,Adverse
+Feb-2025,Administrative Expenses,7899,8117.84,218.84,Adverse
+Feb-2025,Depreciation,6879,6869.85,-9.15,Favourable
+Mar-2025,Sales Revenue,249092,255521.25,6429.25,Favourable
+Mar-2025,Cost of Goods Sold,125740,128709.33,2969.33,Adverse
+Mar-2025,Staff Costs,40393,43356.03,2963.03,Adverse
+Mar-2025,Rent & Utilities,14363,14983.88,620.88,Adverse
+Mar-2025,Marketing & Advertising,10041,9758.3,-282.7,Favourable
+Mar-2025,Transport & Logistics,11612,11201.52,-410.48,Favourable
+Mar-2025,Administrative Expenses,7478,7821.24,343.24,Adverse
+Mar-2025,Depreciation,4775,4686.07,-88.93,Favourable
+Apr-2025,Sales Revenue,215920,203419.79,-12500.21,Adverse
+Apr-2025,Cost of Goods Sold,98943,108217.24,9274.24,Adverse
+Apr-2025,Staff Costs,36021,36655.29,634.29,Adverse
+Apr-2025,Rent & Utilities,17225,17979.47,754.47,Adverse
+Apr-2025,Marketing & Advertising,9500,11759.42,2259.42,Adverse
+Apr-2025,Transport & Logistics,15873,16284.61,411.61,Adverse
+Apr-2025,Administrative Expenses,10297,11326.88,1029.88,Adverse
+Apr-2025,Depreciation,6317,6374.43,57.43,Adverse
+May-2025,Sales Revenue,191534,172617.76,-18916.24,Adverse
+May-2025,Cost of Goods Sold,120851,112440.05,-8410.95,Favourable
+May-2025,Staff Costs,41439,43916.61,2477.61,Adverse
+May-2025,Rent & Utilities,12337,12832.45,495.45,Adverse
+May-2025,Marketing & Advertising,12887,12792.94,-94.06,Favourable
+May-2025,Transport & Logistics,13859,14828.71,969.71,Adverse
+May-2025,Administrative Expenses,6492,6211.39,-280.61,Favourable
+May-2025,Depreciation,6062,5980.83,-81.17,Favourable
+Jun-2025,Sales Revenue,228984,255741.44,26757.44,Favourable
+Jun-2025,Cost of Goods Sold,97027,95814.38,-1212.62,Favourable
+Jun-2025,Staff Costs,40258,39285.75,-972.25,Favourable
+Jun-2025,Rent & Utilities,12391,13193.58,802.58,Adverse
+Jun-2025,Marketing & Advertising,14432,15765.29,1333.29,Adverse
+Jun-2025,Transport & Logistics,12561,12565.65,4.65,Adverse
+Jun-2025,Administrative Expenses,9099,9954.21,855.21,Adverse
+Jun-2025,Depreciation,5863,5851.15,-11.85,Favourable
+Jul-2025,Sales Revenue,232256,207928.11,-24327.89,Adverse
+Jul-2025,Cost of Goods Sold,130222,139836.74,9614.74,Adverse
+Jul-2025,Staff Costs,43996,45969.17,1973.17,Adverse
+Jul-2025,Rent & Utilities,17991,18093.8,102.8,Adverse
+Jul-2025,Marketing & Advertising,9570,9942.14,372.14,Adverse
+Jul-2025,Transport & Logistics,15756,18467.28,2711.28,Adverse
+Jul-2025,Administrative Expenses,8690,9337.83,647.83,Adverse
+Jul-2025,Depreciation,4502,4550.8,48.8,Adverse
+Aug-2025,Sales Revenue,180206,177072.19,-3133.81,Adverse
+Aug-2025,Cost of Goods Sold,118419,111884.05,-6534.95,Favourable
+Aug-2025,Staff Costs,35863,37036.92,1173.92,Adverse
+Aug-2025,Rent & Utilities,12563,13106.05,543.05,Adverse
+Aug-2025,Marketing & Advertising,14019,17005.42,2986.42,Adverse
+Aug-2025,Transport & Logistics,15374,15603.18,229.18,Adverse
+Aug-2025,Administrative Expenses,9242,8951.63,-290.37,Favourable
+Aug-2025,Depreciation,6572,6460.8,-111.2,Favourable
